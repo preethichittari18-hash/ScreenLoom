@@ -1,0 +1,109 @@
+2025-03-20 17:48:17,445 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-20 17:48:39,878 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-03-20 17:48:49,585 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-20 17:50:17,727 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 11:20:35,043 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-21 11:20:37,005 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-21 11:20:59,553 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-03-21 11:21:09,255 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 13:54:43,144 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-21 13:55:47,844 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-03-21 13:55:57,571 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 13:57:22,819 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 14:22:29,054 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-21 14:23:18,175 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-03-21 14:23:27,900 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 14:25:19,592 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 15:14:16,303 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-21 15:15:15,241 - CRITICAL - Error 'int' object is not callable with extract_topics, defaulting to cache.
+2025-03-21 15:17:29,163 - CRITICAL - Error 'int' object is not callable with extract_topics, defaulting to cache.
+2025-03-21 15:18:46,138 - CRITICAL - Error 'int' object is not callable with extract_topics, defaulting to cache.
+2025-03-21 15:19:15,332 - CRITICAL - Error <built-in method with_traceback of TypeError object at 0x0000028953009780> with extract_topics, defaulting to cache.
+2025-03-21 15:21:13,993 - CRITICAL - Error <traceback object at 0x0000028949474740> with extract_topics, defaulting to cache.
+2025-03-21 15:22:06,501 - CRITICAL - Error <traceback object at 0x000002894F89BC00> with extract_topics, defaulting to cache.
+2025-03-21 15:25:47,001 - CRITICAL - Error 'int' object is not callable with extract_topics, defaulting to cache.
+Traceback (most recent call last):
+  File "D:\App Centre\ScreenLoom\ScreenLoom_app.py", line 73, in extract_topics
+    topics = te.fit_transform(llm_api_key=GROQ_API_KEY)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\ScreenLoom\utils\utils.py", line 74, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\ScreenLoom\utils\topics.py", line 141, in fit_transform
+    self._create_embeddings()
+  File "D:\App Centre\ScreenLoom\utils\utils.py", line 74, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\ScreenLoom\utils\topics.py", line 54, in _create_embeddings
+    self.df['embeddings'] = self.df['text'].apply(self.EMBEDDER_CHARACTER_LIMIT)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\venv\Lib\site-packages\pandas\core\series.py", line 4924, in apply
+    ).apply()
+      ^^^^^^^
+  File "D:\App Centre\venv\Lib\site-packages\pandas\core\apply.py", line 1427, in apply
+    return self.apply_standard()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\venv\Lib\site-packages\pandas\core\apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+             ^^^^^^^^^^^^^^^^
+  File "D:\App Centre\venv\Lib\site-packages\pandas\core\base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\venv\Lib\site-packages\pandas\core\algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+TypeError: 'int' object is not callable
+2025-03-24 14:27:22,116 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+Traceback (most recent call last):
+  File "D:\App Centre\ScreenLoom\ScreenLoom_app.py", line 70, in extract_topics
+    raise Exception("testing")  # Temporary testing exception
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Exception: testing
+2025-03-24 14:27:49,318 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-03-24 14:27:59,057 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-05 18:14:12,344 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-05 18:14:18,269 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-05 18:14:22,196 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-06 10:52:39,476 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-06 10:52:42,877 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-06 10:56:16,959 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-06 10:56:26,736 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 10:55:09,729 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-13 10:55:30,446 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-13 10:55:44,264 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 11:03:17,042 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-13 11:03:41,154 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 11:04:24,975 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 11:04:27,688 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 16:06:39,717 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-13 16:06:56,940 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-13 16:07:14,450 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 16:10:01,964 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 16:11:35,416 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F02510> with create_conclusion, defaulting to cache.
+2025-05-13 16:17:41,810 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-13 16:18:12,009 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 16:20:02,023 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F98DE0> with create_conclusion, defaulting to cache.
+2025-05-13 16:22:50,368 - CRITICAL - Error "['dew'] not in index" with create_recommendation_table, defaulting to cache.
+2025-05-13 16:22:50,376 - CRITICAL - Error 'dew' with create_recommendation_table, defaulting to cache.
+2025-05-13 16:23:30,409 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F9A660> with create_conclusion, defaulting to cache.
+2025-05-13 16:23:35,599 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F02200> with create_conclusion, defaulting to cache.
+2025-05-13 16:23:46,594 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F02190> with create_conclusion, defaulting to cache.
+2025-05-13 16:23:50,182 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F02270> with create_conclusion, defaulting to cache.
+2025-05-16 16:40:34,033 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-16 16:40:36,753 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-16 16:41:39,222 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-16 16:41:52,981 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-16 16:43:17,285 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018FE6D72510> with create_conclusion, defaulting to cache.
+2025-05-16 16:44:34,984 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018FE6D720B0> with create_conclusion, defaulting to cache.
+2025-05-19 14:57:09,311 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-19 14:57:32,158 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-19 14:57:46,987 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-19 14:59:11,956 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x00000252B307A510> with create_conclusion, defaulting to cache.
+2025-05-19 16:45:52,187 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x00000252B307B070> with create_conclusion, defaulting to cache.
+2025-05-19 16:45:55,781 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x000002527FB63D20> with create_conclusion, defaulting to cache.
+2025-05-19 16:51:05,909 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-19 16:51:33,523 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-19 16:54:00,317 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-19 16:55:41,027 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x00000252B3079D30> with create_conclusion, defaulting to cache.
+2025-05-19 16:58:45,440 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x00000252B358B9A0> with create_conclusion, defaulting to cache.

@@ -1,0 +1,2400 @@
+2025-03-20 17:47:34,490 - INFO - App Started
+2025-03-20 17:47:34,490 - INFO - Loaded landing page.
+2025-03-20 17:48:13,051 - INFO - App Started
+2025-03-20 17:48:13,053 - INFO - Loaded main page.
+2025-03-20 17:48:17,406 - INFO - App Started
+2025-03-20 17:48:17,406 - INFO - Loaded main page.
+2025-03-20 17:48:17,438 - INFO - Function 'extract_topics' started.
+2025-03-20 17:48:17,445 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-20 17:48:31,959 - INFO - TIME_PERF: Function 'extract_topics' took 14.5192 seconds to execute
+2025-03-20 17:48:38,220 - INFO - App Started
+2025-03-20 17:48:38,223 - INFO - Loaded main page.
+2025-03-20 17:48:38,247 - INFO - Function 'extract_topics' started.
+2025-03-20 17:48:38,269 - INFO - TIME_PERF: Function 'extract_topics' took 0.0215 seconds to execute
+2025-03-20 17:48:39,807 - INFO - App Started
+2025-03-20 17:48:39,807 - INFO - Loaded main page.
+2025-03-20 17:48:39,840 - INFO - Function 'extract_topics' started.
+2025-03-20 17:48:39,865 - INFO - TIME_PERF: Function 'extract_topics' took 0.0239 seconds to execute
+2025-03-20 17:48:39,870 - INFO - Function 'reduce_topics' started.
+2025-03-20 17:48:39,878 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-03-20 17:48:49,574 - INFO - TIME_PERF: Function 'reduce_topics' took 9.7027 seconds to execute
+2025-03-20 17:48:49,577 - INFO - Function 'extract_features' started.
+2025-03-20 17:48:49,585 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-20 17:49:10,737 - INFO - TIME_PERF: Function 'extract_features' took 21.1601 seconds to execute
+2025-03-20 17:49:10,747 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-20 17:49:10,748 - INFO - Function 'create_recommendation_table' started.
+2025-03-20 17:49:10,763 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0142 seconds to execute
+2025-03-20 17:49:10,772 - INFO - Function 'create_conclusion' started.
+2025-03-20 17:49:10,773 - INFO - Function 'fit_transform' started.
+2025-03-20 17:49:13,729 - INFO - TIME_PERF: Function 'fit_transform' took 2.9547 seconds to execute
+2025-03-20 17:49:13,729 - INFO - TIME_PERF: Function 'create_conclusion' took 2.9564 seconds to execute
+2025-03-20 17:50:14,531 - INFO - App Started
+2025-03-20 17:50:14,535 - INFO - Loaded main page.
+2025-03-20 17:50:14,554 - INFO - Function 'extract_topics' started.
+2025-03-20 17:50:14,578 - INFO - TIME_PERF: Function 'extract_topics' took 0.0220 seconds to execute
+2025-03-20 17:50:17,620 - INFO - App Started
+2025-03-20 17:50:17,623 - INFO - Loaded main page.
+2025-03-20 17:50:17,642 - INFO - Function 'extract_topics' started.
+2025-03-20 17:50:17,676 - INFO - TIME_PERF: Function 'extract_topics' took 0.0310 seconds to execute
+2025-03-20 17:50:17,682 - INFO - Function 'reduce_topics' started.
+2025-03-20 17:50:17,712 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0296 seconds to execute
+2025-03-20 17:50:17,713 - INFO - Function 'extract_features' started.
+2025-03-20 17:50:17,727 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-20 17:50:37,054 - INFO - TIME_PERF: Function 'extract_features' took 19.3409 seconds to execute
+2025-03-20 17:50:37,054 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-20 17:50:37,054 - INFO - Function 'create_recommendation_table' started.
+2025-03-20 17:50:37,075 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0062 seconds to execute
+2025-03-20 17:50:37,078 - INFO - Function 'create_conclusion' started.
+2025-03-20 17:50:37,079 - INFO - Function 'fit_transform' started.
+2025-03-20 17:50:39,698 - INFO - TIME_PERF: Function 'fit_transform' took 2.6183 seconds to execute
+2025-03-20 17:50:39,698 - INFO - TIME_PERF: Function 'create_conclusion' took 2.6193 seconds to execute
+2025-03-21 11:20:23,006 - INFO - App Started
+2025-03-21 11:20:23,017 - INFO - Loaded landing page.
+2025-03-21 11:20:30,830 - INFO - App Started
+2025-03-21 11:20:30,834 - INFO - Loaded main page.
+2025-03-21 11:20:34,989 - INFO - App Started
+2025-03-21 11:20:34,994 - INFO - Loaded main page.
+2025-03-21 11:20:35,022 - INFO - Function 'extract_topics' started.
+2025-03-21 11:20:35,043 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-21 11:20:36,864 - INFO - App Started
+2025-03-21 11:20:36,868 - INFO - Loaded main page.
+2025-03-21 11:20:36,902 - INFO - Function 'extract_topics' started.
+2025-03-21 11:20:37,005 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-21 11:20:52,031 - INFO - TIME_PERF: Function 'extract_topics' took 15.1273 seconds to execute
+2025-03-21 11:20:59,472 - INFO - App Started
+2025-03-21 11:20:59,475 - INFO - Loaded main page.
+2025-03-21 11:20:59,506 - INFO - Function 'extract_topics' started.
+2025-03-21 11:20:59,540 - INFO - TIME_PERF: Function 'extract_topics' took 0.0319 seconds to execute
+2025-03-21 11:20:59,545 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:20:59,553 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-03-21 11:21:09,242 - INFO - TIME_PERF: Function 'reduce_topics' took 9.6954 seconds to execute
+2025-03-21 11:21:09,245 - INFO - Function 'extract_features' started.
+2025-03-21 11:21:09,255 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 11:21:30,402 - INFO - TIME_PERF: Function 'extract_features' took 21.1568 seconds to execute
+2025-03-21 11:21:30,419 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:21:54,025 - INFO - App Started
+2025-03-21 11:21:54,030 - INFO - Loaded main page.
+2025-03-21 11:21:54,059 - INFO - Function 'extract_topics' started.
+2025-03-21 11:21:54,095 - INFO - TIME_PERF: Function 'extract_topics' took 0.0349 seconds to execute
+2025-03-21 11:21:55,687 - INFO - App Started
+2025-03-21 11:21:55,692 - INFO - Loaded main page.
+2025-03-21 11:21:55,725 - INFO - Function 'extract_topics' started.
+2025-03-21 11:21:55,750 - INFO - TIME_PERF: Function 'extract_topics' took 0.0230 seconds to execute
+2025-03-21 11:21:55,756 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:21:55,784 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0269 seconds to execute
+2025-03-21 11:21:55,788 - INFO - Function 'extract_features' started.
+2025-03-21 11:21:55,836 - INFO - TIME_PERF: Function 'extract_features' took 0.0469 seconds to execute
+2025-03-21 11:21:55,844 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:21:55,845 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:22:56,991 - INFO - App Started
+2025-03-21 11:22:56,996 - INFO - Loaded main page.
+2025-03-21 11:22:57,023 - INFO - Function 'extract_topics' started.
+2025-03-21 11:22:57,054 - INFO - TIME_PERF: Function 'extract_topics' took 0.0309 seconds to execute
+2025-03-21 11:22:58,537 - INFO - App Started
+2025-03-21 11:22:58,541 - INFO - Loaded main page.
+2025-03-21 11:22:58,572 - INFO - Function 'extract_topics' started.
+2025-03-21 11:22:58,608 - INFO - TIME_PERF: Function 'extract_topics' took 0.0349 seconds to execute
+2025-03-21 11:22:58,613 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:22:58,643 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0289 seconds to execute
+2025-03-21 11:22:58,646 - INFO - Function 'extract_features' started.
+2025-03-21 11:22:58,689 - INFO - TIME_PERF: Function 'extract_features' took 0.0419 seconds to execute
+2025-03-21 11:22:58,694 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:22:58,695 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:23:34,891 - INFO - App Started
+2025-03-21 11:23:34,896 - INFO - Loaded landing page.
+2025-03-21 11:23:38,314 - INFO - App Started
+2025-03-21 11:23:38,319 - INFO - Loaded main page.
+2025-03-21 11:23:40,235 - INFO - App Started
+2025-03-21 11:23:40,239 - INFO - Loaded main page.
+2025-03-21 11:23:40,273 - INFO - Function 'extract_topics' started.
+2025-03-21 11:23:40,308 - INFO - TIME_PERF: Function 'extract_topics' took 0.0329 seconds to execute
+2025-03-21 11:23:41,216 - INFO - App Started
+2025-03-21 11:23:41,221 - INFO - Loaded main page.
+2025-03-21 11:23:41,249 - INFO - Function 'extract_topics' started.
+2025-03-21 11:23:41,291 - INFO - TIME_PERF: Function 'extract_topics' took 0.0409 seconds to execute
+2025-03-21 11:23:43,456 - INFO - App Started
+2025-03-21 11:23:43,459 - INFO - Loaded main page.
+2025-03-21 11:23:43,488 - INFO - Function 'extract_topics' started.
+2025-03-21 11:23:43,525 - INFO - TIME_PERF: Function 'extract_topics' took 0.0359 seconds to execute
+2025-03-21 11:23:43,532 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:23:43,571 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0379 seconds to execute
+2025-03-21 11:23:43,573 - INFO - Function 'extract_features' started.
+2025-03-21 11:23:43,608 - INFO - TIME_PERF: Function 'extract_features' took 0.0339 seconds to execute
+2025-03-21 11:23:43,615 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:23:43,617 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:24:04,087 - INFO - App Started
+2025-03-21 11:24:04,090 - INFO - Loaded main page.
+2025-03-21 11:24:04,120 - INFO - Function 'extract_topics' started.
+2025-03-21 11:24:04,156 - INFO - TIME_PERF: Function 'extract_topics' took 0.0339 seconds to execute
+2025-03-21 11:24:06,399 - INFO - App Started
+2025-03-21 11:24:06,405 - INFO - Loaded main page.
+2025-03-21 11:24:06,432 - INFO - Function 'extract_topics' started.
+2025-03-21 11:24:06,465 - INFO - TIME_PERF: Function 'extract_topics' took 0.0309 seconds to execute
+2025-03-21 11:24:06,472 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:24:06,499 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0259 seconds to execute
+2025-03-21 11:24:06,511 - INFO - Function 'extract_features' started.
+2025-03-21 11:24:06,559 - INFO - TIME_PERF: Function 'extract_features' took 0.0459 seconds to execute
+2025-03-21 11:24:06,567 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:24:06,569 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:24:33,985 - INFO - App Started
+2025-03-21 11:24:34,003 - INFO - Loaded landing page.
+2025-03-21 11:24:37,448 - INFO - App Started
+2025-03-21 11:24:37,454 - INFO - Loaded main page.
+2025-03-21 11:24:40,609 - INFO - App Started
+2025-03-21 11:24:40,613 - INFO - Loaded main page.
+2025-03-21 11:24:40,645 - INFO - Function 'extract_topics' started.
+2025-03-21 11:24:40,676 - INFO - TIME_PERF: Function 'extract_topics' took 0.0309 seconds to execute
+2025-03-21 11:24:41,768 - INFO - App Started
+2025-03-21 11:24:41,773 - INFO - Loaded main page.
+2025-03-21 11:24:41,800 - INFO - Function 'extract_topics' started.
+2025-03-21 11:24:41,834 - INFO - TIME_PERF: Function 'extract_topics' took 0.0329 seconds to execute
+2025-03-21 11:24:43,161 - INFO - App Started
+2025-03-21 11:24:43,165 - INFO - Loaded main page.
+2025-03-21 11:24:43,192 - INFO - Function 'extract_topics' started.
+2025-03-21 11:24:43,229 - INFO - TIME_PERF: Function 'extract_topics' took 0.0339 seconds to execute
+2025-03-21 11:24:43,234 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:24:43,261 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0259 seconds to execute
+2025-03-21 11:24:43,263 - INFO - Function 'extract_features' started.
+2025-03-21 11:24:43,296 - INFO - TIME_PERF: Function 'extract_features' took 0.0309 seconds to execute
+2025-03-21 11:24:43,301 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:24:43,302 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:24:43,316 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0134 seconds to execute
+2025-03-21 11:56:04,615 - INFO - App Started
+2025-03-21 11:56:04,620 - INFO - Loaded main page.
+2025-03-21 11:56:04,651 - INFO - Function 'extract_topics' started.
+2025-03-21 11:56:04,683 - INFO - TIME_PERF: Function 'extract_topics' took 0.0301 seconds to execute
+2025-03-21 11:56:06,585 - INFO - App Started
+2025-03-21 11:56:06,588 - INFO - Loaded main page.
+2025-03-21 11:56:06,613 - INFO - Function 'extract_topics' started.
+2025-03-21 11:56:06,644 - INFO - TIME_PERF: Function 'extract_topics' took 0.0289 seconds to execute
+2025-03-21 11:56:06,651 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:56:06,679 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0270 seconds to execute
+2025-03-21 11:56:06,682 - INFO - Function 'extract_features' started.
+2025-03-21 11:56:06,715 - INFO - TIME_PERF: Function 'extract_features' took 0.0319 seconds to execute
+2025-03-21 11:56:06,720 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:56:06,721 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:56:06,726 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0030 seconds to execute
+2025-03-21 11:56:06,923 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:56:06,926 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0040 seconds to execute
+2025-03-21 11:56:06,929 - INFO - Function 'create_conclusion' started.
+2025-03-21 11:56:06,932 - INFO - Function 'fit_transform' started.
+2025-03-21 11:56:10,289 - INFO - TIME_PERF: Function 'fit_transform' took 3.3555 seconds to execute
+2025-03-21 11:56:10,289 - INFO - TIME_PERF: Function 'create_conclusion' took 3.3565 seconds to execute
+2025-03-21 11:56:56,540 - INFO - App Started
+2025-03-21 11:56:56,544 - INFO - Loaded main page.
+2025-03-21 11:56:56,577 - INFO - Function 'extract_topics' started.
+2025-03-21 11:56:56,611 - INFO - TIME_PERF: Function 'extract_topics' took 0.0339 seconds to execute
+2025-03-21 11:56:58,585 - INFO - App Started
+2025-03-21 11:56:58,590 - INFO - Loaded main page.
+2025-03-21 11:56:58,614 - INFO - Function 'extract_topics' started.
+2025-03-21 11:56:58,655 - INFO - TIME_PERF: Function 'extract_topics' took 0.0372 seconds to execute
+2025-03-21 11:56:58,660 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:56:58,691 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0291 seconds to execute
+2025-03-21 11:56:58,695 - INFO - Function 'extract_features' started.
+2025-03-21 11:56:58,731 - INFO - TIME_PERF: Function 'extract_features' took 0.0351 seconds to execute
+2025-03-21 11:56:58,739 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:56:58,740 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:56:58,744 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0030 seconds to execute
+2025-03-21 11:56:58,778 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:56:58,782 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0030 seconds to execute
+2025-03-21 11:57:32,743 - INFO - App Started
+2025-03-21 11:57:32,747 - INFO - Loaded main page.
+2025-03-21 11:57:32,761 - INFO - Function 'extract_topics' started.
+2025-03-21 11:57:32,795 - INFO - TIME_PERF: Function 'extract_topics' took 0.0328 seconds to execute
+2025-03-21 11:57:36,014 - INFO - App Started
+2025-03-21 11:57:36,018 - INFO - Loaded main page.
+2025-03-21 11:57:36,048 - INFO - Function 'extract_topics' started.
+2025-03-21 11:57:36,079 - INFO - TIME_PERF: Function 'extract_topics' took 0.0289 seconds to execute
+2025-03-21 11:57:36,086 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:57:36,112 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0249 seconds to execute
+2025-03-21 11:57:36,119 - INFO - Function 'extract_features' started.
+2025-03-21 11:57:36,159 - INFO - TIME_PERF: Function 'extract_features' took 0.0369 seconds to execute
+2025-03-21 11:57:36,164 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:57:36,165 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:57:36,177 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0110 seconds to execute
+2025-03-21 11:57:36,200 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:57:36,207 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0060 seconds to execute
+2025-03-21 11:59:05,417 - INFO - App Started
+2025-03-21 11:59:05,421 - INFO - Loaded main page.
+2025-03-21 11:59:05,453 - INFO - Function 'extract_topics' started.
+2025-03-21 11:59:05,487 - INFO - TIME_PERF: Function 'extract_topics' took 0.0339 seconds to execute
+2025-03-21 11:59:07,742 - INFO - App Started
+2025-03-21 11:59:07,747 - INFO - Loaded main page.
+2025-03-21 11:59:07,776 - INFO - Function 'extract_topics' started.
+2025-03-21 11:59:07,811 - INFO - TIME_PERF: Function 'extract_topics' took 0.0339 seconds to execute
+2025-03-21 11:59:07,820 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:59:07,844 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0229 seconds to execute
+2025-03-21 11:59:07,852 - INFO - Function 'extract_features' started.
+2025-03-21 11:59:07,894 - INFO - TIME_PERF: Function 'extract_features' took 0.0389 seconds to execute
+2025-03-21 11:59:07,901 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:59:07,903 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:59:07,906 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0040 seconds to execute
+2025-03-21 11:59:07,941 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:59:07,948 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0060 seconds to execute
+2025-03-21 11:59:53,997 - INFO - App Started
+2025-03-21 11:59:54,001 - INFO - Loaded main page.
+2025-03-21 11:59:54,032 - INFO - Function 'extract_topics' started.
+2025-03-21 11:59:54,063 - INFO - TIME_PERF: Function 'extract_topics' took 0.0289 seconds to execute
+2025-03-21 11:59:55,558 - INFO - App Started
+2025-03-21 11:59:55,564 - INFO - Loaded main page.
+2025-03-21 11:59:55,599 - INFO - Function 'extract_topics' started.
+2025-03-21 11:59:55,638 - INFO - TIME_PERF: Function 'extract_topics' took 0.0359 seconds to execute
+2025-03-21 11:59:55,647 - INFO - Function 'reduce_topics' started.
+2025-03-21 11:59:55,674 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0259 seconds to execute
+2025-03-21 11:59:55,681 - INFO - Function 'extract_features' started.
+2025-03-21 11:59:55,715 - INFO - TIME_PERF: Function 'extract_features' took 0.0329 seconds to execute
+2025-03-21 11:59:55,720 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 11:59:55,724 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:59:55,736 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0110 seconds to execute
+2025-03-21 11:59:55,758 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 11:59:55,766 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0060 seconds to execute
+2025-03-21 13:53:59,198 - INFO - App Started
+2025-03-21 13:53:59,209 - INFO - Loaded landing page.
+2025-03-21 13:54:16,169 - INFO - App Started
+2025-03-21 13:54:16,175 - INFO - Loaded main page.
+2025-03-21 13:54:43,086 - INFO - App Started
+2025-03-21 13:54:43,090 - INFO - Loaded main page.
+2025-03-21 13:54:43,129 - INFO - Function 'extract_topics' started.
+2025-03-21 13:54:43,144 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-21 13:54:57,659 - INFO - TIME_PERF: Function 'extract_topics' took 14.5292 seconds to execute
+2025-03-21 13:55:47,738 - INFO - App Started
+2025-03-21 13:55:47,742 - INFO - Loaded main page.
+2025-03-21 13:55:47,786 - INFO - Function 'extract_topics' started.
+2025-03-21 13:55:47,827 - INFO - TIME_PERF: Function 'extract_topics' took 0.0379 seconds to execute
+2025-03-21 13:55:47,838 - INFO - Function 'reduce_topics' started.
+2025-03-21 13:55:47,844 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-03-21 13:55:57,556 - INFO - TIME_PERF: Function 'reduce_topics' took 9.7167 seconds to execute
+2025-03-21 13:55:57,562 - INFO - Function 'extract_features' started.
+2025-03-21 13:55:57,571 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 13:56:18,719 - INFO - TIME_PERF: Function 'extract_features' took 21.1569 seconds to execute
+2025-03-21 13:56:18,725 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 13:56:18,725 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 13:56:18,749 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0170 seconds to execute
+2025-03-21 13:56:18,883 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 13:56:18,887 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0040 seconds to execute
+2025-03-21 13:56:19,177 - INFO - Function 'create_conclusion' started.
+2025-03-21 13:56:19,182 - INFO - Function 'fit_transform' started.
+2025-03-21 13:56:22,824 - INFO - TIME_PERF: Function 'fit_transform' took 3.6416 seconds to execute
+2025-03-21 13:56:22,826 - INFO - TIME_PERF: Function 'create_conclusion' took 3.6446 seconds to execute
+2025-03-21 13:57:18,163 - INFO - App Started
+2025-03-21 13:57:18,168 - INFO - Loaded main page.
+2025-03-21 13:57:18,201 - INFO - Function 'extract_topics' started.
+2025-03-21 13:57:18,248 - INFO - TIME_PERF: Function 'extract_topics' took 0.0459 seconds to execute
+2025-03-21 13:57:22,639 - INFO - App Started
+2025-03-21 13:57:22,649 - INFO - Loaded main page.
+2025-03-21 13:57:22,687 - INFO - Function 'extract_topics' started.
+2025-03-21 13:57:22,734 - INFO - TIME_PERF: Function 'extract_topics' took 0.0449 seconds to execute
+2025-03-21 13:57:22,748 - INFO - Function 'reduce_topics' started.
+2025-03-21 13:57:22,790 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0419 seconds to execute
+2025-03-21 13:57:22,801 - INFO - Function 'extract_features' started.
+2025-03-21 13:57:22,819 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 13:57:42,166 - INFO - TIME_PERF: Function 'extract_features' took 19.3638 seconds to execute
+2025-03-21 13:57:42,171 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 13:57:42,172 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 13:57:42,184 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0100 seconds to execute
+2025-03-21 13:57:42,209 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 13:57:42,222 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0119 seconds to execute
+2025-03-21 13:57:42,275 - INFO - Function 'create_conclusion' started.
+2025-03-21 13:57:42,277 - INFO - Function 'fit_transform' started.
+2025-03-21 13:57:45,468 - INFO - TIME_PERF: Function 'fit_transform' took 3.1856 seconds to execute
+2025-03-21 13:57:45,469 - INFO - TIME_PERF: Function 'create_conclusion' took 3.1936 seconds to execute
+2025-03-21 14:19:21,877 - INFO - App Started
+2025-03-21 14:19:21,887 - INFO - Loaded landing page.
+2025-03-21 14:20:33,531 - INFO - App Started
+2025-03-21 14:20:33,543 - INFO - Loaded landing page.
+2025-03-21 14:21:05,229 - INFO - App Started
+2025-03-21 14:21:05,240 - INFO - Loaded landing page.
+2025-03-21 14:21:19,956 - INFO - App Started
+2025-03-21 14:21:19,961 - INFO - Loaded main page.
+2025-03-21 14:21:33,453 - INFO - App Started
+2025-03-21 14:21:33,481 - INFO - Loaded main page.
+2025-03-21 14:21:33,518 - INFO - Function 'extract_topics' started.
+2025-03-21 14:21:33,569 - INFO - TIME_PERF: Function 'extract_topics' took 0.0489 seconds to execute
+2025-03-21 14:22:06,372 - INFO - App Started
+2025-03-21 14:22:06,384 - INFO - Loaded landing page.
+2025-03-21 14:22:12,731 - INFO - App Started
+2025-03-21 14:22:12,741 - INFO - Loaded main page.
+2025-03-21 14:22:28,987 - INFO - App Started
+2025-03-21 14:22:28,991 - INFO - Loaded main page.
+2025-03-21 14:22:29,026 - INFO - Function 'extract_topics' started.
+2025-03-21 14:22:29,054 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-21 14:22:43,585 - INFO - TIME_PERF: Function 'extract_topics' took 14.5437 seconds to execute
+2025-03-21 14:23:18,077 - INFO - App Started
+2025-03-21 14:23:18,084 - INFO - Loaded main page.
+2025-03-21 14:23:18,120 - INFO - Function 'extract_topics' started.
+2025-03-21 14:23:18,159 - INFO - TIME_PERF: Function 'extract_topics' took 0.0369 seconds to execute
+2025-03-21 14:23:18,169 - INFO - Function 'reduce_topics' started.
+2025-03-21 14:23:18,175 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-03-21 14:23:27,873 - INFO - TIME_PERF: Function 'reduce_topics' took 9.7036 seconds to execute
+2025-03-21 14:23:27,880 - INFO - Function 'extract_features' started.
+2025-03-21 14:23:27,900 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 14:23:49,029 - INFO - TIME_PERF: Function 'extract_features' took 21.1475 seconds to execute
+2025-03-21 14:23:49,036 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 14:23:49,038 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 14:23:49,054 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0110 seconds to execute
+2025-03-21 14:23:49,086 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 14:23:49,092 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0030 seconds to execute
+2025-03-21 14:23:49,158 - INFO - Function 'create_conclusion' started.
+2025-03-21 14:23:49,159 - INFO - Function 'fit_transform' started.
+2025-03-21 14:23:52,265 - INFO - TIME_PERF: Function 'fit_transform' took 3.1047 seconds to execute
+2025-03-21 14:23:52,269 - INFO - TIME_PERF: Function 'create_conclusion' took 3.1097 seconds to execute
+2025-03-21 14:25:16,842 - INFO - App Started
+2025-03-21 14:25:16,846 - INFO - Loaded main page.
+2025-03-21 14:25:16,882 - INFO - Function 'extract_topics' started.
+2025-03-21 14:25:16,923 - INFO - TIME_PERF: Function 'extract_topics' took 0.0339 seconds to execute
+2025-03-21 14:25:19,424 - INFO - App Started
+2025-03-21 14:25:19,428 - INFO - Loaded main page.
+2025-03-21 14:25:19,462 - INFO - Function 'extract_topics' started.
+2025-03-21 14:25:19,501 - INFO - TIME_PERF: Function 'extract_topics' took 0.0379 seconds to execute
+2025-03-21 14:25:19,513 - INFO - Function 'reduce_topics' started.
+2025-03-21 14:25:19,551 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0369 seconds to execute
+2025-03-21 14:25:19,566 - INFO - Function 'extract_features' started.
+2025-03-21 14:25:19,592 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-21 14:25:38,922 - INFO - TIME_PERF: Function 'extract_features' took 19.3543 seconds to execute
+2025-03-21 14:25:38,930 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-21 14:25:38,930 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 14:25:38,936 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0040 seconds to execute
+2025-03-21 14:25:38,968 - INFO - Function 'create_recommendation_table' started.
+2025-03-21 14:25:38,979 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0090 seconds to execute
+2025-03-21 14:25:39,036 - INFO - Function 'create_conclusion' started.
+2025-03-21 14:25:39,038 - INFO - Function 'fit_transform' started.
+2025-03-21 14:25:42,080 - INFO - TIME_PERF: Function 'fit_transform' took 3.0368 seconds to execute
+2025-03-21 14:25:42,081 - INFO - TIME_PERF: Function 'create_conclusion' took 3.0438 seconds to execute
+2025-03-21 15:13:56,252 - INFO - App Started
+2025-03-21 15:13:56,256 - INFO - Loaded landing page.
+2025-03-21 15:14:05,568 - INFO - App Started
+2025-03-21 15:14:05,579 - INFO - Loaded main page.
+2025-03-21 15:14:15,914 - INFO - App Started
+2025-03-21 15:14:15,923 - INFO - Loaded main page.
+2025-03-21 15:14:16,184 - INFO - Function 'extract_topics' started.
+2025-03-21 15:14:16,303 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-03-21 15:14:30,796 - INFO - TIME_PERF: Function 'extract_topics' took 14.6108 seconds to execute
+2025-03-21 15:15:06,835 - INFO - App Started
+2025-03-21 15:15:06,839 - INFO - Loaded landing page.
+2025-03-21 15:15:11,365 - INFO - App Started
+2025-03-21 15:15:11,374 - INFO - Loaded main page.
+2025-03-21 15:15:14,886 - INFO - App Started
+2025-03-21 15:15:14,895 - INFO - Loaded main page.
+2025-03-21 15:15:15,116 - INFO - Function 'extract_topics' started.
+2025-03-21 15:15:15,231 - INFO - Function '__init__' started.
+2025-03-21 15:15:15,234 - INFO - TIME_PERF: Function '__init__' took 0.0020 seconds to execute
+2025-03-21 15:15:15,236 - INFO - Function 'fit_transform' started.
+2025-03-21 15:15:15,239 - INFO - Function '_create_embeddings' started.
+2025-03-21 15:15:15,241 - CRITICAL - Error 'int' object is not callable with extract_topics, defaulting to cache.
+2025-03-21 15:15:29,784 - INFO - TIME_PERF: Function 'extract_topics' took 14.6427 seconds to execute
+2025-03-21 15:16:46,423 - INFO - App Started
+2025-03-21 15:16:46,436 - INFO - Loaded landing page.
+2025-03-21 15:16:49,401 - INFO - App Started
+2025-03-21 15:16:49,412 - INFO - Loaded main page.
+2025-03-21 15:16:52,613 - INFO - App Started
+2025-03-21 15:16:52,623 - INFO - Loaded main page.
+2025-03-21 15:16:52,858 - INFO - Function 'extract_topics' started.
+2025-03-21 15:16:52,972 - INFO - TIME_PERF: Function 'extract_topics' took 0.1007 seconds to execute
+2025-03-21 15:17:22,747 - INFO - App Started
+2025-03-21 15:17:22,755 - INFO - Loaded landing page.
+2025-03-21 15:17:25,524 - INFO - App Started
+2025-03-21 15:17:25,534 - INFO - Loaded main page.
+2025-03-21 15:17:28,789 - INFO - App Started
+2025-03-21 15:17:28,799 - INFO - Loaded main page.
+2025-03-21 15:17:29,054 - INFO - Function 'extract_topics' started.
+2025-03-21 15:17:29,160 - INFO - Function '__init__' started.
+2025-03-21 15:17:29,162 - INFO - TIME_PERF: Function '__init__' took 0.0010 seconds to execute
+2025-03-21 15:17:29,163 - INFO - Function 'fit_transform' started.
+2025-03-21 15:17:29,163 - INFO - Function '_create_embeddings' started.
+2025-03-21 15:17:29,163 - CRITICAL - Error 'int' object is not callable with extract_topics, defaulting to cache.
+2025-03-21 15:17:43,693 - INFO - TIME_PERF: Function 'extract_topics' took 14.6392 seconds to execute
+2025-03-21 15:17:58,205 - INFO - App Started
+2025-03-21 15:17:58,211 - INFO - Loaded landing page.
+2025-03-21 15:18:01,386 - INFO - App Started
+2025-03-21 15:18:01,398 - INFO - Loaded main page.
+2025-03-21 15:18:06,138 - INFO - App Started
+2025-03-21 15:18:06,147 - INFO - Loaded main page.
+2025-03-21 15:18:09,133 - INFO - App Started
+2025-03-21 15:18:09,142 - INFO - Loaded main page.
+2025-03-21 15:18:09,404 - INFO - Function 'extract_topics' started.
+2025-03-21 15:18:09,514 - INFO - Function '__init__' started.
+2025-03-21 15:18:09,517 - INFO - TIME_PERF: Function '__init__' took 0.0010 seconds to execute
+2025-03-21 15:18:09,518 - INFO - Function 'fit_transform' started.
+2025-03-21 15:18:09,518 - INFO - Function '_create_embeddings' started.
+2025-03-21 15:18:45,766 - INFO - App Started
+2025-03-21 15:18:45,787 - INFO - Loaded main page.
+2025-03-21 15:18:46,009 - INFO - Function 'extract_topics' started.
+2025-03-21 15:18:46,134 - INFO - Function '__init__' started.
+2025-03-21 15:18:46,137 - INFO - TIME_PERF: Function '__init__' took 0.0010 seconds to execute
+2025-03-21 15:18:46,137 - INFO - Function 'fit_transform' started.
+2025-03-21 15:18:46,138 - INFO - Function '_create_embeddings' started.
+2025-03-21 15:18:46,138 - CRITICAL - Error 'int' object is not callable with extract_topics, defaulting to cache.
+2025-03-21 15:19:00,663 - INFO - TIME_PERF: Function 'extract_topics' took 14.6281 seconds to execute
+2025-03-21 15:19:14,964 - INFO - App Started
+2025-03-21 15:19:14,980 - INFO - Loaded main page.
+2025-03-21 15:19:15,225 - INFO - Function 'extract_topics' started.
+2025-03-21 15:19:15,329 - INFO - Function '__init__' started.
+2025-03-21 15:19:15,330 - INFO - TIME_PERF: Function '__init__' took 0.0010 seconds to execute
+2025-03-21 15:19:15,330 - INFO - Function 'fit_transform' started.
+2025-03-21 15:19:15,331 - INFO - Function '_create_embeddings' started.
+2025-03-21 15:19:15,332 - CRITICAL - Error <built-in method with_traceback of TypeError object at 0x0000028953009780> with extract_topics, defaulting to cache.
+2025-03-21 15:19:29,831 - INFO - TIME_PERF: Function 'extract_topics' took 14.6052 seconds to execute
+2025-03-21 15:21:13,526 - INFO - App Started
+2025-03-21 15:21:13,539 - INFO - Loaded main page.
+2025-03-21 15:21:13,865 - INFO - Function 'extract_topics' started.
+2025-03-21 15:21:13,989 - INFO - Function '__init__' started.
+2025-03-21 15:21:13,992 - INFO - TIME_PERF: Function '__init__' took 0.0010 seconds to execute
+2025-03-21 15:21:13,992 - INFO - Function 'fit_transform' started.
+2025-03-21 15:21:13,993 - INFO - Function '_create_embeddings' started.
+2025-03-21 15:21:13,993 - CRITICAL - Error <traceback object at 0x0000028949474740> with extract_topics, defaulting to cache.
+2025-03-21 15:21:28,502 - INFO - TIME_PERF: Function 'extract_topics' took 14.6077 seconds to execute
+2025-03-21 15:22:06,111 - INFO - App Started
+2025-03-21 15:22:06,126 - INFO - Loaded main page.
+2025-03-21 15:22:06,355 - INFO - Function 'extract_topics' started.
+2025-03-21 15:22:06,497 - INFO - Function '__init__' started.
+2025-03-21 15:22:06,499 - INFO - TIME_PERF: Function '__init__' took 0.0000 seconds to execute
+2025-03-21 15:22:06,500 - INFO - Function 'fit_transform' started.
+2025-03-21 15:22:06,500 - INFO - Function '_create_embeddings' started.
+2025-03-21 15:22:06,501 - CRITICAL - Error <traceback object at 0x000002894F89BC00> with extract_topics, defaulting to cache.
+2025-03-21 15:22:21,093 - INFO - TIME_PERF: Function 'extract_topics' took 14.7116 seconds to execute
+2025-03-21 15:22:52,701 - INFO - App Started
+2025-03-21 15:22:52,713 - INFO - Loaded main page.
+2025-03-21 15:22:52,928 - INFO - Function 'extract_topics' started.
+2025-03-21 15:22:53,057 - INFO - Function '__init__' started.
+2025-03-21 15:22:53,059 - INFO - TIME_PERF: Function '__init__' took 0.0010 seconds to execute
+2025-03-21 15:22:53,059 - INFO - Function 'fit_transform' started.
+2025-03-21 15:22:53,060 - INFO - Function '_create_embeddings' started.
+2025-03-21 15:25:46,605 - INFO - App Started
+2025-03-21 15:25:46,614 - INFO - Loaded main page.
+2025-03-21 15:25:46,885 - INFO - Function 'extract_topics' started.
+2025-03-21 15:25:46,998 - INFO - Function '__init__' started.
+2025-03-21 15:25:46,999 - INFO - TIME_PERF: Function '__init__' took 0.0000 seconds to execute
+2025-03-21 15:25:47,000 - INFO - Function 'fit_transform' started.
+2025-03-21 15:25:47,000 - INFO - Function '_create_embeddings' started.
+2025-03-21 15:25:47,001 - CRITICAL - Error 'int' object is not callable with extract_topics, defaulting to cache.
+Traceback (most recent call last):
+  File "D:\App Centre\ScreenLoom\ScreenLoom_app.py", line 73, in extract_topics
+    topics = te.fit_transform(llm_api_key=GROQ_API_KEY)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\ScreenLoom\utils\utils.py", line 74, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\ScreenLoom\utils\topics.py", line 141, in fit_transform
+    self._create_embeddings()
+  File "D:\App Centre\ScreenLoom\utils\utils.py", line 74, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\ScreenLoom\utils\topics.py", line 54, in _create_embeddings
+    self.df['embeddings'] = self.df['text'].apply(self.EMBEDDER_CHARACTER_LIMIT)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\venv\Lib\site-packages\pandas\core\series.py", line 4924, in apply
+    ).apply()
+      ^^^^^^^
+  File "D:\App Centre\venv\Lib\site-packages\pandas\core\apply.py", line 1427, in apply
+    return self.apply_standard()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\venv\Lib\site-packages\pandas\core\apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+             ^^^^^^^^^^^^^^^^
+  File "D:\App Centre\venv\Lib\site-packages\pandas\core\base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\App Centre\venv\Lib\site-packages\pandas\core\algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+TypeError: 'int' object is not callable
+2025-03-21 15:26:01,497 - INFO - TIME_PERF: Function 'extract_topics' took 14.6118 seconds to execute
+2025-03-21 15:30:39,109 - INFO - App Started
+2025-03-21 15:30:39,119 - INFO - Loaded main page.
+2025-03-21 15:30:39,353 - INFO - Function 'extract_topics' started.
+2025-03-21 15:30:39,479 - INFO - Function '__init__' started.
+2025-03-21 15:30:39,482 - INFO - TIME_PERF: Function '__init__' took 0.0010 seconds to execute
+2025-03-21 15:30:39,482 - INFO - Function 'fit_transform' started.
+2025-03-21 15:30:39,482 - INFO - Function '_create_embeddings' started.
+2025-03-21 15:30:40,337 - WARNING - Pipeline initialization failed: "Unknown task finbert-pipeline-with-sentence-embedding, available tasks are ['audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'image-to-image', 'image-to-text', 'mask-generation', 'ner', 'object-detection', 'question-answering', 'sentiment-analysis', 'summarization', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'text2text-generation', 'token-classification', 'translation', 'video-classification', 'visual-question-answering', 'vqa', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection', 'translation_XX_to_YY']". Registering custom pipeline.
+2025-03-21 15:31:32,528 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:33,500 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:34,367 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:35,507 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:36,369 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:37,237 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:38,130 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:38,999 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:40,243 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:41,106 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:42,155 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:43,032 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:44,188 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:45,095 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:46,005 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:46,959 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:47,870 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:48,808 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:49,718 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:50,622 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:51,526 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:52,499 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:53,399 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:54,351 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:55,254 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:56,179 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:57,087 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:58,025 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:58,967 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:31:59,898 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:00,836 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:01,808 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:02,721 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:03,674 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:04,834 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:05,745 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:06,805 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:08,778 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:09,644 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:10,611 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:14,191 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:15,136 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:16,075 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:17,172 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:18,081 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:19,001 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:19,993 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:21,815 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:22,715 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:23,636 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:24,681 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:25,869 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:26,842 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:27,786 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:29,168 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:30,045 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:30,973 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:32,409 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:33,295 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:34,300 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:35,184 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:36,196 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:37,137 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:38,067 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:39,140 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:40,029 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:40,986 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:42,661 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:43,547 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:44,459 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:48,581 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:49,708 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:50,633 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:51,544 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:52,478 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:53,368 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:54,263 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:55,452 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:56,374 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:57,322 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:58,240 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:32:59,175 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:00,134 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:01,051 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:01,865 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:02,677 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:03,479 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:04,301 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:05,104 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:06,166 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:06,968 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:08,625 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:09,516 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:10,320 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:11,120 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:12,154 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:12,957 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:13,761 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:14,603 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:15,417 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:16,217 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:17,051 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:22,549 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:23,420 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:24,223 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:25,019 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:25,851 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:30,004 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:30,800 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:31,626 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:32,825 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:33,646 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:34,459 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:35,253 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:36,112 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:36,936 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:37,773 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:38,569 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:39,479 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:40,267 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:43,233 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:44,034 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:44,843 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:45,660 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:46,486 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:47,297 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:48,096 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:48,907 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:49,707 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:50,510 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:51,330 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:52,141 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:53,487 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:54,668 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:55,479 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:56,581 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:57,408 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:58,230 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:33:59,626 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:00,434 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:01,238 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:02,031 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:02,979 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:03,800 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:04,629 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:05,481 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:06,416 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:08,086 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:08,925 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:09,723 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:10,551 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:11,361 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:12,175 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:13,069 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:13,887 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:14,756 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:15,579 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:16,556 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:18,008 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:18,823 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:19,648 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:20,443 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:21,262 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:22,063 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:22,877 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:23,819 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:24,630 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:25,454 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:26,264 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:27,066 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:27,892 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:31,116 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:31,938 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:32,753 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:33,562 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:34,545 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:35,386 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:36,214 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:37,031 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:37,846 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:38,673 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:39,584 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:40,401 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:41,211 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:42,021 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:42,885 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:43,695 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:44,803 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:45,718 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:46,514 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:48,206 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:49,017 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:49,809 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:50,669 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:51,473 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:52,279 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:53,094 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:53,890 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:54,705 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:55,525 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:34:56,330 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:07,402 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:08,625 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:09,431 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:10,270 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:11,083 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:12,549 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:13,375 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:14,217 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:15,013 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:15,831 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:16,628 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:17,511 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:18,354 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:19,182 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:20,107 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:21,792 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:22,613 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:23,484 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:24,288 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:25,105 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:25,928 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:27,196 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:28,191 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:29,025 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:29,832 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:30,640 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:31,498 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:32,863 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:33,661 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:34,570 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:35,382 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:36,220 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:37,034 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:37,875 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:38,697 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:39,871 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:40,686 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:44,176 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:44,981 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:45,777 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:46,577 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:47,390 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:48,182 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:48,985 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:49,805 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:50,685 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:51,494 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:52,284 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:53,096 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:53,917 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:54,706 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:55,526 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:56,355 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:57,179 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:58,013 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:58,811 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:35:59,628 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:00,446 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:01,242 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:02,785 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:03,585 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:04,396 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:05,272 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:06,170 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:07,046 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:08,121 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:08,915 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:09,722 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:10,518 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:11,368 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:12,158 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:13,004 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:16,595 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:17,375 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:18,184 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:19,030 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:19,823 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:20,631 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:21,464 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:22,262 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:23,046 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:23,820 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:24,632 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:25,495 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:26,602 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:27,447 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:28,241 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:29,036 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:29,837 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:30,636 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:31,494 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:32,305 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:33,127 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:34,545 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:35,354 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:36,166 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:36,984 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:37,779 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:38,581 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:39,446 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:40,263 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:41,081 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:41,906 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:42,732 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:43,548 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:44,565 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:45,356 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:46,869 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:47,689 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:48,527 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:49,376 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:51,126 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:51,922 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:52,961 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:53,779 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:54,649 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:55,493 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:56,417 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:57,246 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:58,055 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:58,851 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:36:59,653 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:00,498 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:01,334 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:02,127 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:02,951 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:04,043 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:04,868 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:06,288 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:07,091 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:07,905 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:08,811 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:09,609 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:10,685 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:11,477 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:12,309 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:13,271 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:14,063 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:14,885 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:15,697 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:16,576 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:17,952 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:18,767 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:19,587 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:20,382 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:21,250 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:22,059 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:27,249 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:28,129 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:30,338 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:31,137 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:41,771 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:42,612 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:43,442 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:44,494 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:45,389 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:46,188 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:47,011 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:57,614 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:58,658 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:37:59,458 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:00,353 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:01,192 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:02,047 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:02,862 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:03,650 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:06,100 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:06,991 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:07,783 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:08,586 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:09,434 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:10,275 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:11,092 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:11,920 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:13,027 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:13,820 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:14,697 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:15,509 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:16,318 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:17,144 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:17,945 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:18,731 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:19,804 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:20,628 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:21,417 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:22,211 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:23,024 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:23,809 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:24,675 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:25,485 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:26,321 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:27,141 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:27,956 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:28,777 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:29,604 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:30,446 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:31,270 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:32,078 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:32,899 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:33,780 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:34,566 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:35,442 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:36,250 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:37,077 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:37,902 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:38,707 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:43,039 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:44,193 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:45,033 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:48,192 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:48,976 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:49,772 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:53,521 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:54,326 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:55,140 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:55,951 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:56,751 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:57,573 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:58,361 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:38:59,228 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:00,043 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:00,880 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:01,679 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:03,458 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:04,282 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:05,140 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:05,993 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:06,869 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:07,664 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:08,498 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:09,295 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:10,417 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:11,503 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:13,329 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:14,140 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:14,968 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:15,801 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:16,597 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:17,419 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:18,244 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:19,777 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:20,576 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:21,356 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:22,900 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:23,797 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:25,022 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:25,832 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:26,663 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:27,474 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:28,289 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:29,896 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:32,311 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:33,150 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:33,980 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:34,800 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:35,614 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:36,443 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:37,236 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:38,072 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:38,858 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:39,693 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:40,497 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:41,328 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:42,134 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:42,966 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:43,799 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:46,249 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:47,038 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:47,857 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:48,696 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:49,545 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:50,360 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:51,157 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:51,945 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:53,173 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:54,012 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:54,819 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:55,680 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:56,515 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:39:57,715 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:00,509 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:01,594 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:02,446 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:03,302 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:04,101 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:04,898 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:05,749 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:06,587 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:11,413 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:12,218 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:13,510 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:14,302 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:15,108 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:15,912 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:16,759 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:17,580 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:18,599 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:19,411 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:20,248 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:21,066 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:21,866 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:22,732 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:23,539 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:24,359 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:25,151 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:26,024 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:26,889 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:27,677 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:28,595 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:30,453 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:31,253 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:32,117 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:32,932 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:33,801 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:34,638 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:35,453 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:36,283 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:37,092 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:37,932 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:39,749 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:40,552 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:41,364 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:42,170 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:43,043 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:43,953 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:44,891 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:45,713 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:46,504 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:47,328 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:48,127 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:49,196 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:50,026 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:51,336 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:52,148 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:52,973 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:55,356 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:56,156 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:57,360 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:58,216 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:40:59,337 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:00,154 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:03,113 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:03,993 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:04,868 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:05,693 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:06,532 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:07,345 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:10,831 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:11,670 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:16,689 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:17,559 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:18,372 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:19,157 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:20,694 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:21,517 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:22,337 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:23,142 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:23,948 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:24,765 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:25,826 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:26,609 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:35,679 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:36,861 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:37,718 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:38,548 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:39,343 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:40,164 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:40,983 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:41,805 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:42,699 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:43,547 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:44,450 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:45,256 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:46,069 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:46,871 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:47,666 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:48,491 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:49,338 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:50,520 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:51,974 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:52,791 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:53,918 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:54,715 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:55,749 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:56,584 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:57,422 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:58,224 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:59,049 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:41:59,843 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:00,657 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:01,500 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:02,302 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:03,078 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:03,877 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:04,690 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:05,511 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:06,326 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:07,108 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:07,947 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:08,773 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:09,606 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:10,434 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:11,237 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:12,035 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:12,864 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:16,371 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:17,181 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:17,978 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:20,502 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:21,586 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:22,424 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:23,232 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:24,062 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:24,893 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:25,692 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:26,519 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:27,323 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:28,128 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:28,978 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:29,802 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:30,609 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:31,418 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:32,211 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:33,019 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:33,827 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:34,652 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:35,455 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:36,282 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:37,345 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:38,166 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:39,045 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:39,818 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:40,618 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:41,529 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:42,330 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:43,142 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:43,989 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:44,826 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:45,633 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:46,454 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:47,269 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:48,071 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:48,888 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:49,707 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:50,512 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:51,326 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:52,196 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:53,022 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:53,857 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:54,696 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:57,478 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:58,280 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:59,123 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:42:59,940 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:00,782 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:01,609 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:02,427 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:03,239 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:04,168 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:05,024 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:05,836 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:09,289 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:10,085 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:10,904 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:11,729 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:12,515 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:13,335 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:14,140 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:15,831 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:16,635 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:18,547 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:19,426 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:20,995 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:21,828 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:22,852 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:23,683 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:26,761 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:30,336 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:31,199 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:32,026 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:33,150 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:33,974 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:34,836 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:36,162 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:37,006 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:37,806 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:38,671 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:39,770 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:40,586 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:42,220 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:43,016 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:44,257 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:45,045 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:45,877 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:46,693 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:49,747 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:50,563 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:51,477 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:52,296 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:53,095 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:53,883 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:54,712 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:56,095 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:56,889 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:57,880 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:58,676 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:43:59,499 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:00,301 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:01,080 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:01,902 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:02,773 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:03,607 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:04,443 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:05,252 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:06,201 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:07,014 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:07,839 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:08,658 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:09,624 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:10,482 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:11,307 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:12,111 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:12,909 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:13,694 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:14,508 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:15,309 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:18,987 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:19,797 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:20,603 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:21,425 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:23,480 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:24,286 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:25,076 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:25,874 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:26,695 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:27,537 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:28,333 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:29,146 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:29,938 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:30,756 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:31,544 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:32,350 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:33,175 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:34,006 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:37,974 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:38,788 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:39,593 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:40,451 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:41,273 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:42,084 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:42,877 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:43,679 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:44,467 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:48,937 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:49,795 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:50,566 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:51,357 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:52,158 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:55,412 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:56,220 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:57,112 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:44:57,915 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:04,250 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:05,052 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:05,862 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:06,652 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:07,454 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:08,289 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:09,093 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:09,909 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:10,717 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:11,523 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:12,322 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:13,109 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:13,909 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:15,291 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:16,093 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:16,888 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:17,680 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:19,415 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:20,232 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:21,062 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:21,879 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:23,785 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:28,308 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:29,107 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:29,873 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:30,708 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:31,509 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:32,348 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:33,711 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:34,515 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:35,349 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:36,157 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:36,944 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:40,215 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:41,015 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:41,844 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:42,664 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:43,569 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:44,364 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:45,152 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:45,971 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:46,783 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:47,559 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:48,670 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:49,457 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:51,028 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:51,816 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:52,633 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:53,505 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:54,369 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:55,150 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:55,951 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:56,762 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:57,554 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:58,340 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:45:59,131 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:02,597 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:06,616 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:07,402 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:08,192 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:09,058 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:09,848 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:10,943 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:11,774 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:12,566 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:13,384 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:14,204 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:15,148 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:15,948 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:16,764 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:17,577 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:18,389 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:19,195 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:20,016 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:20,850 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:21,685 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:25,494 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:26,361 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:27,199 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:28,008 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:28,798 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:29,605 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:30,466 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:31,277 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:32,084 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:32,951 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:33,764 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:34,584 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:35,415 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:36,238 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:37,022 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:37,853 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:38,661 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:39,453 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:40,259 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:41,081 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:41,875 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:42,662 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:43,482 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:44,309 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:45,109 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:45,929 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:46,755 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:47,571 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:48,547 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:49,337 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:50,143 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:50,926 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:54,473 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:55,346 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:56,178 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:57,511 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:58,383 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:46:59,654 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:00,461 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:01,276 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:02,082 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:02,981 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:03,794 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:04,631 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:05,422 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:06,209 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:07,035 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:07,824 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:08,635 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:11,294 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:12,120 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:13,035 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:13,840 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:14,661 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:15,463 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:16,308 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:17,108 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:17,910 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:18,767 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:29,359 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:30,202 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:31,018 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:31,818 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:32,655 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:33,489 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:34,285 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:35,096 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:37,644 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:38,491 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:39,315 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:45,387 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:46,202 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:47,029 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:47,824 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:48,629 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:49,417 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:47:50,233 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:03,109 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:03,963 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:08,221 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:09,001 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:09,837 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:11,254 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:12,059 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:13,132 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:13,952 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:14,765 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:15,574 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:16,384 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:17,218 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:18,041 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:18,839 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:19,714 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:20,903 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:21,706 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:22,530 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:23,383 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:24,387 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:25,193 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:26,005 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:26,789 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:27,603 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:28,428 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:29,258 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:30,058 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:30,873 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:32,586 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:33,389 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:34,211 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:34,999 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:35,815 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:36,651 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:37,466 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:38,282 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:39,094 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:39,877 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:40,676 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:41,494 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:42,301 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:43,115 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:43,965 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:44,755 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:45,562 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:46,371 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:47,158 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:47,975 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:48,804 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:49,575 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:50,388 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:51,234 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:52,047 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:52,860 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:53,662 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:54,742 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:55,552 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:56,347 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:57,121 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:57,951 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:58,744 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:48:59,549 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:00,365 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:01,190 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:02,000 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:02,851 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:03,676 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:04,514 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:05,457 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:06,290 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:07,098 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:07,910 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:08,717 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:09,508 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:10,324 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:11,157 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:11,995 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:13,592 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:14,419 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:15,210 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:16,091 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:17,000 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:17,812 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:18,638 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:19,444 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:20,250 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:21,060 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:21,843 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:23,774 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:24,576 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:25,411 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:26,727 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:27,527 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:28,335 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:33,028 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:33,925 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:35,392 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:36,228 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:37,461 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:38,313 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:39,124 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:39,976 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:40,799 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:41,613 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:44,699 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:45,512 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:46,405 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:47,216 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:48,007 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:48,799 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:49,621 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:50,418 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:51,217 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:52,028 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:55,419 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:56,232 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:57,095 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:57,885 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:58,718 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:49:59,519 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:00,341 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:01,132 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:01,947 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:03,609 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:04,939 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:05,739 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:06,550 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:07,361 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:08,166 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:09,054 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:09,899 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:10,735 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:11,552 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:12,347 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:13,198 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:23,955 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:24,804 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:25,915 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:27,605 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:28,441 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:29,396 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:30,231 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:31,074 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:31,916 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:32,887 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:33,699 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:37,641 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:38,552 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:39,515 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:50,200 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:53,220 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:54,139 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:55,019 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:56,217 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:57,118 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:58,018 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:58,855 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:50:59,796 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:00,649 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:01,509 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:02,702 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:03,521 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:04,392 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:05,289 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:06,999 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:07,970 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:08,988 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:13,972 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:14,842 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:15,769 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:16,590 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:21,144 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:22,027 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:25,898 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:26,794 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:27,697 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:28,576 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:29,495 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:30,615 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:31,472 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:32,346 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:33,551 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:39,512 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:40,384 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:41,249 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:42,104 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:51:42,977 - INFO - Generating embedding for truncated input of length 2.
+2025-03-21 15:53:03,137 - INFO - App Started
+2025-03-21 15:53:03,137 - INFO - App Started
+2025-03-24 14:03:42,267 - INFO - App Started
+2025-03-24 14:03:42,286 - INFO - Loaded landing page.
+2025-03-24 14:16:54,276 - INFO - App Started
+2025-03-24 14:16:54,285 - INFO - Loaded landing page.
+2025-03-24 14:26:41,863 - INFO - App Started
+2025-03-24 14:26:41,951 - INFO - Loaded landing page.
+2025-03-24 14:27:06,057 - INFO - App Started
+2025-03-24 14:27:06,066 - INFO - Loaded main page.
+2025-03-24 14:27:21,986 - INFO - App Started
+2025-03-24 14:27:21,992 - INFO - Loaded main page.
+2025-03-24 14:27:22,056 - INFO - Function 'extract_topics' started.
+2025-03-24 14:27:22,116 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+Traceback (most recent call last):
+  File "D:\App Centre\ScreenLoom\ScreenLoom_app.py", line 70, in extract_topics
+    raise Exception("testing")  # Temporary testing exception
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Exception: testing
+2025-03-24 14:27:36,665 - INFO - TIME_PERF: Function 'extract_topics' took 14.6052 seconds to execute
+2025-03-24 14:27:49,206 - INFO - App Started
+2025-03-24 14:27:49,210 - INFO - Loaded main page.
+2025-03-24 14:27:49,257 - INFO - Function 'extract_topics' started.
+2025-03-24 14:27:49,297 - INFO - TIME_PERF: Function 'extract_topics' took 0.0379 seconds to execute
+2025-03-24 14:27:49,312 - INFO - Function 'reduce_topics' started.
+2025-03-24 14:27:49,318 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-03-24 14:27:59,025 - INFO - TIME_PERF: Function 'reduce_topics' took 9.7125 seconds to execute
+2025-03-24 14:27:59,037 - INFO - Function 'extract_features' started.
+2025-03-24 14:27:59,057 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-03-24 14:28:20,192 - INFO - TIME_PERF: Function 'extract_features' took 21.1522 seconds to execute
+2025-03-24 14:28:20,213 - INFO - Associations with NEUTRAL sentiment: 37
+2025-03-24 14:28:20,215 - INFO - Function 'create_recommendation_table' started.
+2025-03-24 14:28:20,246 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0219 seconds to execute
+2025-03-24 14:28:20,453 - INFO - Function 'create_recommendation_table' started.
+2025-03-24 14:28:20,457 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0030 seconds to execute
+2025-03-24 14:28:20,929 - INFO - Function 'create_conclusion' started.
+2025-03-24 14:28:20,930 - INFO - Function 'fit_transform' started.
+2025-03-24 14:28:24,473 - INFO - TIME_PERF: Function 'fit_transform' took 3.5432 seconds to execute
+2025-03-24 14:28:24,474 - INFO - TIME_PERF: Function 'create_conclusion' took 3.5452 seconds to execute
+2025-03-24 16:00:12,671 - INFO - App Started
+2025-03-24 16:00:12,680 - INFO - Loaded landing page.
+2025-05-05 18:13:25,389 - INFO - App Started
+2025-05-05 18:13:25,412 - INFO - Loaded landing page.
+2025-05-05 18:13:43,699 - INFO - App Started
+2025-05-05 18:13:43,699 - INFO - Loaded landing page.
+2025-05-05 18:13:59,643 - INFO - App Started
+2025-05-05 18:13:59,704 - INFO - Loaded main page.
+2025-05-05 18:13:59,745 - INFO - App Started
+2025-05-05 18:13:59,752 - INFO - Loaded landing page.
+2025-05-05 18:14:12,295 - INFO - App Started
+2025-05-05 18:14:12,322 - INFO - Loaded main page.
+2025-05-05 18:14:12,330 - INFO - Function 'extract_topics' started.
+2025-05-05 18:14:12,344 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-05 18:14:18,225 - INFO - App Started
+2025-05-05 18:14:18,239 - INFO - Loaded main page.
+2025-05-05 18:14:18,259 - INFO - Function 'extract_topics' started.
+2025-05-05 18:14:18,269 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-05 18:14:21,990 - INFO - App Started
+2025-05-05 18:14:22,016 - INFO - Loaded main page.
+2025-05-05 18:14:22,024 - INFO - Function 'extract_topics' started.
+2025-05-05 18:14:22,196 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-05 18:14:37,286 - INFO - TIME_PERF: Function 'extract_topics' took 15.2613 seconds to execute
+2025-05-05 18:14:37,326 - INFO - App Started
+2025-05-05 18:14:37,352 - INFO - Loaded landing page.
+2025-05-05 18:15:18,995 - INFO - App Started
+2025-05-05 18:15:19,025 - INFO - Loaded main page.
+2025-05-05 18:15:19,036 - INFO - Function 'extract_topics' started.
+2025-05-05 18:15:19,063 - INFO - TIME_PERF: Function 'extract_topics' took 0.0256 seconds to execute
+2025-05-05 18:15:25,762 - INFO - App Started
+2025-05-05 18:15:25,762 - INFO - Loaded landing page.
+2025-05-05 18:15:28,499 - INFO - App Started
+2025-05-05 18:15:28,532 - INFO - Loaded main page.
+2025-05-05 18:15:32,697 - INFO - App Started
+2025-05-05 18:15:32,901 - INFO - Loaded main page.
+2025-05-05 18:39:14,427 - INFO - App Started
+2025-05-05 18:39:14,446 - INFO - Loaded landing page.
+2025-05-05 18:39:19,682 - INFO - App Started
+2025-05-05 18:39:19,682 - INFO - Loaded landing page.
+2025-05-05 18:40:36,942 - INFO - App Started
+2025-05-05 18:40:37,002 - INFO - Loaded main page.
+2025-05-05 18:40:43,548 - INFO - App Started
+2025-05-05 18:40:43,579 - INFO - Loaded main page.
+2025-05-05 18:40:50,322 - INFO - App Started
+2025-05-05 18:40:50,526 - INFO - Loaded main page.
+2025-05-05 18:40:54,781 - INFO - App Started
+2025-05-05 18:40:54,799 - INFO - Loaded main page.
+2025-05-06 10:46:26,332 - INFO - App Started
+2025-05-06 10:46:26,344 - INFO - Loaded landing page.
+2025-05-06 10:46:38,587 - INFO - App Started
+2025-05-06 10:46:41,104 - INFO - App Started
+2025-05-06 10:46:42,546 - INFO - App Started
+2025-05-06 10:46:43,010 - INFO - Loaded landing page.
+2025-05-06 10:46:45,216 - INFO - Loaded landing page.
+2025-05-06 10:46:45,951 - INFO - App Started
+2025-05-06 10:46:46,691 - INFO - Loaded landing page.
+2025-05-06 10:46:50,391 - INFO - Loaded landing page.
+2025-05-06 10:46:50,423 - INFO - App Started
+2025-05-06 10:46:51,271 - INFO - Loaded landing page.
+2025-05-06 10:46:54,128 - INFO - App Started
+2025-05-06 10:46:54,186 - INFO - Loaded main page.
+2025-05-06 10:47:59,385 - INFO - App Started
+2025-05-06 10:47:59,418 - INFO - Loaded main page.
+2025-05-06 10:51:11,092 - INFO - App Started
+2025-05-06 10:51:11,097 - INFO - Loaded landing page.
+2025-05-06 10:51:32,495 - INFO - App Started
+2025-05-06 10:51:32,562 - INFO - Loaded main page.
+2025-05-06 10:52:25,000 - INFO - App Started
+2025-05-06 10:52:25,005 - INFO - Loaded landing page.
+2025-05-06 10:52:36,121 - INFO - App Started
+2025-05-06 10:52:36,226 - INFO - Loaded main page.
+2025-05-06 10:52:39,352 - INFO - App Started
+2025-05-06 10:52:39,414 - INFO - Loaded main page.
+2025-05-06 10:52:39,432 - INFO - Function 'extract_topics' started.
+2025-05-06 10:52:39,476 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-06 10:52:42,174 - INFO - App Started
+2025-05-06 10:52:42,200 - INFO - Loaded main page.
+2025-05-06 10:52:42,861 - INFO - Function 'extract_topics' started.
+2025-05-06 10:52:42,877 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-06 10:52:57,399 - INFO - TIME_PERF: Function 'extract_topics' took 14.5382 seconds to execute
+2025-05-06 10:54:01,300 - INFO - App Started
+2025-05-06 10:54:05,401 - INFO - Loaded landing page.
+2025-05-06 10:56:03,314 - INFO - App Started
+2025-05-06 10:56:03,344 - INFO - Loaded main page.
+2025-05-06 10:56:03,351 - INFO - Function 'extract_topics' started.
+2025-05-06 10:56:03,402 - INFO - TIME_PERF: Function 'extract_topics' took 0.0503 seconds to execute
+2025-05-06 10:56:07,965 - INFO - App Started
+2025-05-06 10:56:08,023 - INFO - Loaded main page.
+2025-05-06 10:56:11,117 - INFO - App Started
+2025-05-06 10:56:11,139 - INFO - Loaded main page.
+2025-05-06 10:56:11,158 - INFO - Function 'extract_topics' started.
+2025-05-06 10:56:11,209 - INFO - TIME_PERF: Function 'extract_topics' took 0.0499 seconds to execute
+2025-05-06 10:56:13,880 - INFO - App Started
+2025-05-06 10:56:13,927 - INFO - Loaded main page.
+2025-05-06 10:56:13,945 - INFO - Function 'extract_topics' started.
+2025-05-06 10:56:13,979 - INFO - TIME_PERF: Function 'extract_topics' took 0.0339 seconds to execute
+2025-05-06 10:56:16,857 - INFO - App Started
+2025-05-06 10:56:16,889 - INFO - Loaded main page.
+2025-05-06 10:56:16,898 - INFO - Function 'extract_topics' started.
+2025-05-06 10:56:16,940 - INFO - TIME_PERF: Function 'extract_topics' took 0.0414 seconds to execute
+2025-05-06 10:56:16,946 - INFO - Function 'reduce_topics' started.
+2025-05-06 10:56:16,959 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-06 10:56:26,723 - INFO - TIME_PERF: Function 'reduce_topics' took 9.7765 seconds to execute
+2025-05-06 10:56:26,726 - INFO - Function 'extract_features' started.
+2025-05-06 10:56:26,736 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-06 10:56:47,892 - INFO - TIME_PERF: Function 'extract_features' took 21.1653 seconds to execute
+2025-05-06 10:56:47,905 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-06 10:56:47,911 - INFO - Function 'create_recommendation_table' started.
+2025-05-06 10:56:47,929 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0180 seconds to execute
+2025-05-06 10:56:48,094 - INFO - Function 'create_recommendation_table' started.
+2025-05-06 10:56:48,099 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0030 seconds to execute
+2025-05-06 10:56:48,541 - INFO - Function 'create_conclusion' started.
+2025-05-06 10:56:48,543 - INFO - Function 'fit_transform' started.
+2025-05-06 10:56:52,534 - INFO - TIME_PERF: Function 'fit_transform' took 3.9911 seconds to execute
+2025-05-06 10:56:52,535 - INFO - TIME_PERF: Function 'create_conclusion' took 3.9932 seconds to execute
+2025-05-06 11:27:09,055 - INFO - App Started
+2025-05-06 11:27:09,076 - INFO - Loaded landing page.
+2025-05-12 12:50:35,287 - INFO - App Started
+2025-05-13 10:54:24,007 - INFO - App Started
+2025-05-13 10:54:31,058 - INFO - App Started
+2025-05-13 10:54:35,552 - INFO - Loaded landing page.
+2025-05-13 10:54:38,478 - INFO - App Started
+2025-05-13 10:54:54,135 - INFO - App Started
+2025-05-13 10:54:54,188 - INFO - Loaded main page.
+2025-05-13 10:55:05,080 - INFO - App Started
+2025-05-13 10:55:05,115 - INFO - Loaded main page.
+2025-05-13 10:55:07,494 - INFO - App Started
+2025-05-13 10:55:07,525 - INFO - Loaded main page.
+2025-05-13 10:55:08,838 - INFO - App Started
+2025-05-13 10:55:08,872 - INFO - Loaded main page.
+2025-05-13 10:55:09,639 - INFO - App Started
+2025-05-13 10:55:09,677 - INFO - Loaded main page.
+2025-05-13 10:55:09,693 - INFO - Function 'extract_topics' started.
+2025-05-13 10:55:09,729 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-13 10:55:24,248 - INFO - TIME_PERF: Function 'extract_topics' took 14.5538 seconds to execute
+2025-05-13 10:55:24,864 - INFO - App Started
+2025-05-13 10:55:24,904 - INFO - Loaded main page.
+2025-05-13 10:55:25,745 - INFO - App Started
+2025-05-13 10:55:25,786 - INFO - Loaded main page.
+2025-05-13 10:55:27,741 - INFO - App Started
+2025-05-13 10:55:27,775 - INFO - Loaded main page.
+2025-05-13 10:55:28,516 - INFO - App Started
+2025-05-13 10:55:28,574 - INFO - Loaded main page.
+2025-05-13 10:55:28,579 - INFO - Function 'extract_topics' started.
+2025-05-13 10:55:28,615 - INFO - TIME_PERF: Function 'extract_topics' took 0.0349 seconds to execute
+2025-05-13 10:55:30,349 - INFO - App Started
+2025-05-13 10:55:30,383 - INFO - Loaded main page.
+2025-05-13 10:55:30,393 - INFO - Function 'extract_topics' started.
+2025-05-13 10:55:30,430 - INFO - TIME_PERF: Function 'extract_topics' took 0.0359 seconds to execute
+2025-05-13 10:55:30,436 - INFO - Function 'reduce_topics' started.
+2025-05-13 10:55:30,446 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-13 10:55:40,159 - INFO - TIME_PERF: Function 'reduce_topics' took 9.7220 seconds to execute
+2025-05-13 10:55:43,495 - INFO - App Started
+2025-05-13 10:55:43,520 - INFO - Loaded main page.
+2025-05-13 10:55:44,205 - INFO - App Started
+2025-05-13 10:55:44,244 - INFO - Loaded main page.
+2025-05-13 10:55:44,248 - INFO - Function 'extract_features' started.
+2025-05-13 10:55:44,264 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 10:56:03,582 - INFO - TIME_PERF: Function 'extract_features' took 19.3293 seconds to execute
+2025-05-13 10:56:03,604 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-13 10:56:10,828 - INFO - App Started
+2025-05-13 10:56:10,858 - INFO - Loaded main page.
+2025-05-13 10:56:11,640 - INFO - App Started
+2025-05-13 10:56:11,690 - INFO - Loaded main page.
+2025-05-13 10:56:11,703 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 10:56:11,730 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0259 seconds to execute
+2025-05-13 10:56:12,069 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 10:56:12,074 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0036 seconds to execute
+2025-05-13 10:56:13,374 - INFO - Function 'create_conclusion' started.
+2025-05-13 10:56:13,382 - INFO - Function 'fit_transform' started.
+2025-05-13 10:56:17,869 - INFO - TIME_PERF: Function 'fit_transform' took 4.4852 seconds to execute
+2025-05-13 10:56:17,871 - INFO - TIME_PERF: Function 'create_conclusion' took 4.4932 seconds to execute
+2025-05-13 10:57:14,804 - INFO - App Started
+2025-05-13 10:57:25,752 - INFO - App Started
+2025-05-13 10:57:52,941 - INFO - App Started
+2025-05-13 10:57:57,071 - INFO - Loaded landing page.
+2025-05-13 10:58:09,055 - INFO - App Started
+2025-05-13 10:58:41,920 - INFO - App Started
+2025-05-13 10:58:41,926 - INFO - Loaded landing page.
+2025-05-13 11:02:27,941 - INFO - App Started
+2025-05-13 11:02:34,617 - INFO - App Started
+2025-05-13 11:02:50,220 - INFO - App Started
+2025-05-13 11:02:50,389 - INFO - Loaded main page.
+2025-05-13 11:02:54,237 - INFO - App Started
+2025-05-13 11:02:54,406 - INFO - Loaded main page.
+2025-05-13 11:03:05,061 - INFO - App Started
+2025-05-13 11:03:05,071 - INFO - Loaded main page.
+2025-05-13 11:03:07,216 - INFO - App Started
+2025-05-13 11:03:07,222 - INFO - Loaded main page.
+2025-05-13 11:03:08,472 - INFO - App Started
+2025-05-13 11:03:08,481 - INFO - Loaded main page.
+2025-05-13 11:03:16,324 - INFO - App Started
+2025-05-13 11:03:16,331 - INFO - Loaded main page.
+2025-05-13 11:03:17,008 - INFO - App Started
+2025-05-13 11:03:17,015 - INFO - Loaded main page.
+2025-05-13 11:03:17,030 - INFO - Function 'extract_topics' started.
+2025-05-13 11:03:17,042 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-13 11:03:31,626 - INFO - TIME_PERF: Function 'extract_topics' took 14.5936 seconds to execute
+2025-05-13 11:03:36,910 - INFO - App Started
+2025-05-13 11:03:36,916 - INFO - Loaded main page.
+2025-05-13 11:03:36,932 - INFO - Function 'extract_topics' started.
+2025-05-13 11:03:36,981 - INFO - TIME_PERF: Function 'extract_topics' took 0.0479 seconds to execute
+2025-05-13 11:03:36,986 - INFO - Function 'reduce_topics' started.
+2025-05-13 11:03:37,025 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0379 seconds to execute
+2025-05-13 11:03:40,457 - INFO - App Started
+2025-05-13 11:03:40,466 - INFO - Loaded main page.
+2025-05-13 11:03:41,125 - INFO - App Started
+2025-05-13 11:03:41,133 - INFO - Loaded main page.
+2025-05-13 11:03:41,138 - INFO - Function 'extract_features' started.
+2025-05-13 11:03:41,154 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 11:04:00,500 - INFO - TIME_PERF: Function 'extract_features' took 19.3606 seconds to execute
+2025-05-13 11:04:00,505 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-13 11:04:02,640 - INFO - App Started
+2025-05-13 11:04:02,646 - INFO - Loaded main page.
+2025-05-13 11:04:03,321 - INFO - App Started
+2025-05-13 11:04:03,327 - INFO - Loaded main page.
+2025-05-13 11:04:03,337 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 11:04:06,398 - INFO - App Started
+2025-05-13 11:04:06,406 - INFO - Loaded main page.
+2025-05-13 11:04:07,161 - INFO - App Started
+2025-05-13 11:04:07,173 - INFO - Loaded main page.
+2025-05-13 11:04:07,178 - INFO - Function 'extract_features' started.
+2025-05-13 11:04:07,228 - INFO - TIME_PERF: Function 'extract_features' took 0.0494 seconds to execute
+2025-05-13 11:04:07,234 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-13 11:04:24,907 - INFO - App Started
+2025-05-13 11:04:24,942 - INFO - Loaded main page.
+2025-05-13 11:04:24,948 - INFO - Function 'extract_features' started.
+2025-05-13 11:04:24,975 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 11:04:26,720 - INFO - App Started
+2025-05-13 11:04:26,778 - INFO - Loaded main page.
+2025-05-13 11:04:26,782 - INFO - Function 'extract_features' started.
+2025-05-13 11:04:27,688 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 11:04:27,785 - INFO - App Started
+2025-05-13 11:04:27,818 - INFO - Loaded main page.
+2025-05-13 11:04:27,826 - INFO - Function 'extract_features' started.
+2025-05-13 11:04:27,871 - INFO - TIME_PERF: Function 'extract_features' took 0.0439 seconds to execute
+2025-05-13 11:04:27,880 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-13 11:04:30,168 - INFO - App Started
+2025-05-13 11:04:30,205 - INFO - Loaded main page.
+2025-05-13 11:04:30,954 - INFO - App Started
+2025-05-13 11:04:30,991 - INFO - Loaded main page.
+2025-05-13 11:04:31,002 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 11:04:31,007 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0040 seconds to execute
+2025-05-13 11:04:31,035 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 11:04:31,039 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0030 seconds to execute
+2025-05-13 11:04:31,100 - INFO - Function 'create_conclusion' started.
+2025-05-13 11:04:31,102 - INFO - Function 'fit_transform' started.
+2025-05-13 11:04:34,725 - INFO - TIME_PERF: Function 'fit_transform' took 3.6223 seconds to execute
+2025-05-13 11:04:34,727 - INFO - TIME_PERF: Function 'create_conclusion' took 3.6237 seconds to execute
+2025-05-13 15:15:46,409 - INFO - App Started
+2025-05-13 15:15:46,435 - INFO - Loaded landing page.
+2025-05-13 16:04:35,561 - INFO - App Started
+2025-05-13 16:04:35,577 - INFO - Loaded landing page.
+2025-05-13 16:05:20,045 - INFO - App Started
+2025-05-13 16:05:26,645 - INFO - App Started
+2025-05-13 16:05:26,691 - INFO - Loaded main page.
+2025-05-13 16:05:30,846 - INFO - App Started
+2025-05-13 16:05:30,871 - INFO - Loaded main page.
+2025-05-13 16:05:31,461 - INFO - App Started
+2025-05-13 16:05:31,483 - INFO - Loaded main page.
+2025-05-13 16:05:32,831 - INFO - App Started
+2025-05-13 16:05:32,857 - INFO - Loaded main page.
+2025-05-13 16:05:33,431 - INFO - App Started
+2025-05-13 16:05:33,456 - INFO - Loaded main page.
+2025-05-13 16:05:35,940 - INFO - App Started
+2025-05-13 16:05:35,961 - INFO - Loaded main page.
+2025-05-13 16:05:36,531 - INFO - App Started
+2025-05-13 16:05:36,541 - INFO - Loaded main page.
+2025-05-13 16:05:37,147 - INFO - App Started
+2025-05-13 16:05:37,174 - INFO - Loaded main page.
+2025-05-13 16:05:37,779 - INFO - App Started
+2025-05-13 16:05:37,792 - INFO - Loaded main page.
+2025-05-13 16:05:38,383 - INFO - App Started
+2025-05-13 16:05:38,416 - INFO - Loaded main page.
+2025-05-13 16:05:38,960 - INFO - App Started
+2025-05-13 16:05:39,539 - INFO - App Started
+2025-05-13 16:05:40,717 - INFO - App Started
+2025-05-13 16:05:40,747 - INFO - Loaded main page.
+2025-05-13 16:05:42,280 - INFO - App Started
+2025-05-13 16:05:42,304 - INFO - Loaded main page.
+2025-05-13 16:05:42,864 - INFO - App Started
+2025-05-13 16:05:44,016 - INFO - App Started
+2025-05-13 16:05:44,020 - INFO - App Started
+2025-05-13 16:05:44,587 - INFO - App Started
+2025-05-13 16:05:45,184 - INFO - App Started
+2025-05-13 16:05:46,308 - INFO - App Started
+2025-05-13 16:05:46,308 - INFO - App Started
+2025-05-13 16:05:46,906 - INFO - Loaded main page.
+2025-05-13 16:05:47,445 - INFO - App Started
+2025-05-13 16:05:47,477 - INFO - Loaded main page.
+2025-05-13 16:05:48,036 - INFO - App Started
+2025-05-13 16:05:48,058 - INFO - Loaded main page.
+2025-05-13 16:05:48,620 - INFO - App Started
+2025-05-13 16:05:48,646 - INFO - Loaded main page.
+2025-05-13 16:06:30,949 - INFO - App Started
+2025-05-13 16:06:30,972 - INFO - Loaded main page.
+2025-05-13 16:06:35,089 - INFO - App Started
+2025-05-13 16:06:35,105 - INFO - Loaded main page.
+2025-05-13 16:06:37,390 - INFO - App Started
+2025-05-13 16:06:37,390 - INFO - Loaded main page.
+2025-05-13 16:06:39,088 - INFO - App Started
+2025-05-13 16:06:39,107 - INFO - Loaded main page.
+2025-05-13 16:06:39,675 - INFO - App Started
+2025-05-13 16:06:39,679 - INFO - Loaded main page.
+2025-05-13 16:06:39,695 - INFO - Function 'extract_topics' started.
+2025-05-13 16:06:39,717 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-13 16:06:54,238 - INFO - TIME_PERF: Function 'extract_topics' took 14.5434 seconds to execute
+2025-05-13 16:06:56,870 - INFO - App Started
+2025-05-13 16:06:56,891 - INFO - Loaded main page.
+2025-05-13 16:06:56,898 - INFO - Function 'extract_topics' started.
+2025-05-13 16:06:56,937 - INFO - TIME_PERF: Function 'extract_topics' took 0.0388 seconds to execute
+2025-05-13 16:06:56,940 - INFO - Function 'reduce_topics' started.
+2025-05-13 16:06:56,940 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-13 16:07:06,656 - INFO - TIME_PERF: Function 'reduce_topics' took 9.7161 seconds to execute
+2025-05-13 16:07:13,840 - INFO - App Started
+2025-05-13 16:07:13,840 - INFO - Loaded main page.
+2025-05-13 16:07:14,425 - INFO - App Started
+2025-05-13 16:07:14,434 - INFO - Loaded main page.
+2025-05-13 16:07:14,442 - INFO - Function 'extract_features' started.
+2025-05-13 16:07:14,450 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 16:07:33,817 - INFO - TIME_PERF: Function 'extract_features' took 19.3755 seconds to execute
+2025-05-13 16:07:33,836 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-13 16:07:42,320 - INFO - App Started
+2025-05-13 16:07:42,336 - INFO - Loaded main page.
+2025-05-13 16:07:42,906 - INFO - App Started
+2025-05-13 16:07:42,916 - INFO - Loaded main page.
+2025-05-13 16:07:42,923 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:08:40,625 - INFO - App Started
+2025-05-13 16:08:40,625 - INFO - Loaded main page.
+2025-05-13 16:08:41,216 - INFO - App Started
+2025-05-13 16:08:41,225 - INFO - Loaded main page.
+2025-05-13 16:08:41,234 - INFO - Function 'extract_features' started.
+2025-05-13 16:08:41,272 - INFO - TIME_PERF: Function 'extract_features' took 0.0384 seconds to execute
+2025-05-13 16:08:41,328 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-13 16:10:01,898 - INFO - App Started
+2025-05-13 16:10:01,937 - INFO - Loaded main page.
+2025-05-13 16:10:01,947 - INFO - Function 'extract_features' started.
+2025-05-13 16:10:01,964 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 16:10:21,305 - INFO - TIME_PERF: Function 'extract_features' took 19.3569 seconds to execute
+2025-05-13 16:10:21,315 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-13 16:10:30,636 - INFO - App Started
+2025-05-13 16:10:30,661 - INFO - Loaded main page.
+2025-05-13 16:10:31,228 - INFO - App Started
+2025-05-13 16:10:31,258 - INFO - Loaded main page.
+2025-05-13 16:10:31,261 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:10:31,278 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0150 seconds to execute
+2025-05-13 16:10:31,405 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:10:31,421 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0147 seconds to execute
+2025-05-13 16:10:31,777 - INFO - Function 'create_conclusion' started.
+2025-05-13 16:10:31,778 - INFO - Function 'fit_transform' started.
+2025-05-13 16:11:35,416 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F02510> with create_conclusion, defaulting to cache.
+2025-05-13 16:11:55,124 - INFO - TIME_PERF: Function 'create_conclusion' took 83.3460 seconds to execute
+2025-05-13 16:17:23,956 - INFO - App Started
+2025-05-13 16:17:23,959 - INFO - Loaded landing page.
+2025-05-13 16:17:26,533 - INFO - App Started
+2025-05-13 16:17:27,887 - INFO - App Started
+2025-05-13 16:17:27,887 - INFO - Loaded landing page.
+2025-05-13 16:17:33,494 - INFO - App Started
+2025-05-13 16:17:33,534 - INFO - Loaded main page.
+2025-05-13 16:17:37,107 - INFO - App Started
+2025-05-13 16:17:37,134 - INFO - Loaded main page.
+2025-05-13 16:17:39,508 - INFO - App Started
+2025-05-13 16:17:39,533 - INFO - Loaded main page.
+2025-05-13 16:17:41,117 - INFO - App Started
+2025-05-13 16:17:41,144 - INFO - Loaded main page.
+2025-05-13 16:17:41,750 - INFO - App Started
+2025-05-13 16:17:41,794 - INFO - Loaded main page.
+2025-05-13 16:17:41,798 - INFO - Function 'extract_topics' started.
+2025-05-13 16:17:41,810 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-13 16:17:56,334 - INFO - TIME_PERF: Function 'extract_topics' took 14.5311 seconds to execute
+2025-05-13 16:18:08,940 - INFO - App Started
+2025-05-13 16:18:08,967 - INFO - Loaded main page.
+2025-05-13 16:18:08,979 - INFO - Function 'extract_topics' started.
+2025-05-13 16:18:09,022 - INFO - TIME_PERF: Function 'extract_topics' took 0.0415 seconds to execute
+2025-05-13 16:18:09,030 - INFO - Function 'reduce_topics' started.
+2025-05-13 16:18:09,057 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0265 seconds to execute
+2025-05-13 16:18:11,297 - INFO - App Started
+2025-05-13 16:18:11,323 - INFO - Loaded main page.
+2025-05-13 16:18:11,945 - INFO - App Started
+2025-05-13 16:18:11,980 - INFO - Loaded main page.
+2025-05-13 16:18:11,986 - INFO - Function 'extract_features' started.
+2025-05-13 16:18:12,009 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-13 16:18:31,332 - INFO - TIME_PERF: Function 'extract_features' took 19.3467 seconds to execute
+2025-05-13 16:18:31,333 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-13 16:19:00,289 - INFO - App Started
+2025-05-13 16:19:00,320 - INFO - Loaded main page.
+2025-05-13 16:19:00,931 - INFO - App Started
+2025-05-13 16:19:00,964 - INFO - Loaded main page.
+2025-05-13 16:19:00,968 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:19:00,974 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0040 seconds to execute
+2025-05-13 16:19:00,975 - INFO - Function 'create_topic_count_table' started.
+2025-05-13 16:19:00,990 - INFO - TIME_PERF: Function 'create_topic_count_table' took 0.0130 seconds to execute
+2025-05-13 16:19:01,004 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:19:01,007 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0020 seconds to execute
+2025-05-13 16:19:01,056 - INFO - Function 'create_conclusion' started.
+2025-05-13 16:19:01,056 - INFO - Function 'fit_transform' started.
+2025-05-13 16:20:02,023 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F98DE0> with create_conclusion, defaulting to cache.
+2025-05-13 16:20:21,757 - INFO - TIME_PERF: Function 'create_conclusion' took 80.7010 seconds to execute
+2025-05-13 16:22:24,993 - INFO - App Started
+2025-05-13 16:22:29,078 - INFO - App Started
+2025-05-13 16:22:29,114 - INFO - Loaded main page.
+2025-05-13 16:22:29,122 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:22:29,132 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0060 seconds to execute
+2025-05-13 16:22:29,136 - INFO - Function 'create_topic_count_table' started.
+2025-05-13 16:22:29,147 - INFO - TIME_PERF: Function 'create_topic_count_table' took 0.0070 seconds to execute
+2025-05-13 16:22:29,162 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:22:29,167 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0040 seconds to execute
+2025-05-13 16:22:29,216 - INFO - Function 'create_conclusion' started.
+2025-05-13 16:22:29,218 - INFO - Function 'fit_transform' started.
+2025-05-13 16:22:34,621 - INFO - App Started
+2025-05-13 16:22:34,648 - INFO - Loaded main page.
+2025-05-13 16:22:34,652 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:22:34,658 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0040 seconds to execute
+2025-05-13 16:22:34,661 - INFO - Function 'create_topic_count_table' started.
+2025-05-13 16:22:34,669 - INFO - TIME_PERF: Function 'create_topic_count_table' took 0.0074 seconds to execute
+2025-05-13 16:22:34,684 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:22:34,688 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0030 seconds to execute
+2025-05-13 16:22:34,803 - INFO - Function 'create_conclusion' started.
+2025-05-13 16:22:34,831 - INFO - Function 'fit_transform' started.
+2025-05-13 16:22:45,657 - INFO - App Started
+2025-05-13 16:22:45,692 - INFO - Loaded main page.
+2025-05-13 16:22:45,696 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:22:45,703 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0050 seconds to execute
+2025-05-13 16:22:45,708 - INFO - Function 'create_topic_count_table' started.
+2025-05-13 16:22:45,719 - INFO - TIME_PERF: Function 'create_topic_count_table' took 0.0060 seconds to execute
+2025-05-13 16:22:45,740 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:22:45,744 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0031 seconds to execute
+2025-05-13 16:22:45,792 - INFO - Function 'create_conclusion' started.
+2025-05-13 16:22:45,800 - INFO - Function 'fit_transform' started.
+2025-05-13 16:22:48,574 - INFO - App Started
+2025-05-13 16:22:48,574 - INFO - Loaded main page.
+2025-05-13 16:22:48,595 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:22:48,602 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0065 seconds to execute
+2025-05-13 16:22:48,604 - INFO - Function 'create_topic_count_table' started.
+2025-05-13 16:22:48,615 - INFO - TIME_PERF: Function 'create_topic_count_table' took 0.0100 seconds to execute
+2025-05-13 16:22:48,628 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:22:48,633 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0050 seconds to execute
+2025-05-13 16:22:48,671 - INFO - Function 'create_conclusion' started.
+2025-05-13 16:22:48,674 - INFO - Function 'fit_transform' started.
+2025-05-13 16:22:50,347 - INFO - App Started
+2025-05-13 16:22:50,363 - INFO - Loaded main page.
+2025-05-13 16:22:50,366 - INFO - Function 'create_recommendation_table' started.
+2025-05-13 16:22:50,368 - CRITICAL - Error "['dew'] not in index" with create_recommendation_table, defaulting to cache.
+2025-05-13 16:22:50,372 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0050 seconds to execute
+2025-05-13 16:22:50,374 - INFO - Function 'create_topic_count_table' started.
+2025-05-13 16:22:50,376 - CRITICAL - Error 'dew' with create_recommendation_table, defaulting to cache.
+2025-05-13 16:22:50,378 - INFO - TIME_PERF: Function 'create_topic_count_table' took 0.0020 seconds to execute
+2025-05-13 16:23:30,409 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F9A660> with create_conclusion, defaulting to cache.
+2025-05-13 16:23:35,599 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F02200> with create_conclusion, defaulting to cache.
+2025-05-13 16:23:46,594 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F02190> with create_conclusion, defaulting to cache.
+2025-05-13 16:23:50,182 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018EA8F02270> with create_conclusion, defaulting to cache.
+2025-05-13 16:25:03,754 - INFO - App Started
+2025-05-13 16:25:03,767 - INFO - Loaded main page.
+2025-05-13 16:25:04,391 - INFO - App Started
+2025-05-13 16:25:04,397 - INFO - Loaded main page.
+2025-05-13 16:25:04,408 - INFO - Function 'extract_features' started.
+2025-05-13 16:25:04,446 - INFO - TIME_PERF: Function 'extract_features' took 0.0365 seconds to execute
+2025-05-13 16:25:04,451 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-14 12:49:31,398 - INFO - App Started
+2025-05-14 18:47:02,731 - INFO - App Started
+2025-05-14 18:47:02,744 - INFO - Loaded landing page.
+2025-05-15 17:56:47,747 - INFO - App Started
+2025-05-16 16:40:03,366 - INFO - App Started
+2025-05-16 16:40:03,377 - INFO - Loaded landing page.
+2025-05-16 16:40:17,837 - INFO - App Started
+2025-05-16 16:40:21,661 - INFO - App Started
+2025-05-16 16:40:23,169 - INFO - App Started
+2025-05-16 16:40:23,752 - INFO - App Started
+2025-05-16 16:40:30,803 - INFO - App Started
+2025-05-16 16:40:33,996 - INFO - App Started
+2025-05-16 16:40:34,006 - INFO - Function 'extract_topics' started.
+2025-05-16 16:40:34,033 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-16 16:40:36,519 - INFO - App Started
+2025-05-16 16:40:36,526 - INFO - Function 'extract_topics' started.
+2025-05-16 16:40:36,753 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-16 16:40:51,816 - INFO - TIME_PERF: Function 'extract_topics' took 15.2886 seconds to execute
+2025-05-16 16:41:39,163 - INFO - App Started
+2025-05-16 16:41:39,171 - INFO - Function 'extract_topics' started.
+2025-05-16 16:41:39,210 - INFO - TIME_PERF: Function 'extract_topics' took 0.0379 seconds to execute
+2025-05-16 16:41:39,217 - INFO - Function 'reduce_topics' started.
+2025-05-16 16:41:39,222 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-16 16:41:48,915 - INFO - TIME_PERF: Function 'reduce_topics' took 9.6973 seconds to execute
+2025-05-16 16:41:52,959 - INFO - App Started
+2025-05-16 16:41:52,969 - INFO - Function 'extract_features' started.
+2025-05-16 16:41:52,981 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-16 16:42:12,399 - INFO - TIME_PERF: Function 'extract_features' took 19.4283 seconds to execute
+2025-05-16 16:42:12,416 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-16 16:42:14,764 - INFO - App Started
+2025-05-16 16:42:14,776 - INFO - Function 'create_recommendation_table' started.
+2025-05-16 16:42:14,794 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0160 seconds to execute
+2025-05-16 16:42:15,063 - INFO - Function 'create_recommendation_table' started.
+2025-05-16 16:42:15,065 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0020 seconds to execute
+2025-05-16 16:42:15,891 - INFO - Function 'create_conclusion' started.
+2025-05-16 16:42:15,892 - INFO - Function 'fit_transform' started.
+2025-05-16 16:43:17,285 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018FE6D72510> with create_conclusion, defaulting to cache.
+2025-05-16 16:43:19,849 - INFO - App Started
+2025-05-16 16:43:19,862 - INFO - Function 'extract_features' started.
+2025-05-16 16:43:19,906 - INFO - TIME_PERF: Function 'extract_features' took 0.0409 seconds to execute
+2025-05-16 16:43:19,913 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-16 16:43:24,134 - INFO - App Started
+2025-05-16 16:43:24,143 - INFO - Function 'extract_topics' started.
+2025-05-16 16:43:24,182 - INFO - TIME_PERF: Function 'extract_topics' took 0.0389 seconds to execute
+2025-05-16 16:43:24,187 - INFO - Function 'reduce_topics' started.
+2025-05-16 16:43:24,210 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0219 seconds to execute
+2025-05-16 16:43:25,635 - INFO - App Started
+2025-05-16 16:43:25,643 - INFO - Function 'extract_features' started.
+2025-05-16 16:43:25,679 - INFO - TIME_PERF: Function 'extract_features' took 0.0359 seconds to execute
+2025-05-16 16:43:25,686 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-16 16:43:27,331 - INFO - App Started
+2025-05-16 16:43:27,349 - INFO - Function 'extract_topics' started.
+2025-05-16 16:43:27,387 - INFO - TIME_PERF: Function 'extract_topics' took 0.0369 seconds to execute
+2025-05-16 16:43:27,392 - INFO - Function 'reduce_topics' started.
+2025-05-16 16:43:27,425 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0319 seconds to execute
+2025-05-16 16:43:29,147 - INFO - App Started
+2025-05-16 16:43:29,156 - INFO - Function 'extract_features' started.
+2025-05-16 16:43:29,192 - INFO - TIME_PERF: Function 'extract_features' took 0.0339 seconds to execute
+2025-05-16 16:43:29,197 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-16 16:43:33,443 - INFO - App Started
+2025-05-16 16:43:33,451 - INFO - Function 'create_recommendation_table' started.
+2025-05-16 16:43:33,459 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0079 seconds to execute
+2025-05-16 16:43:33,483 - INFO - Function 'create_recommendation_table' started.
+2025-05-16 16:43:33,487 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0044 seconds to execute
+2025-05-16 16:43:33,536 - INFO - Function 'create_conclusion' started.
+2025-05-16 16:43:33,537 - INFO - Function 'fit_transform' started.
+2025-05-16 16:43:35,252 - INFO - App Started
+2025-05-16 16:43:35,263 - INFO - Function 'extract_features' started.
+2025-05-16 16:43:35,303 - INFO - TIME_PERF: Function 'extract_features' took 0.0369 seconds to execute
+2025-05-16 16:43:35,308 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-16 16:44:34,984 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x0000018FE6D720B0> with create_conclusion, defaulting to cache.
+2025-05-19 14:56:37,134 - INFO - App Started
+2025-05-19 14:56:37,157 - INFO - Loaded landing page.
+2025-05-19 14:56:42,300 - INFO - App Started
+2025-05-19 14:56:48,008 - INFO - App Started
+2025-05-19 14:56:49,956 - INFO - App Started
+2025-05-19 14:56:50,516 - INFO - App Started
+2025-05-19 14:57:03,449 - INFO - App Started
+2025-05-19 14:57:05,541 - INFO - App Started
+2025-05-19 14:57:09,274 - INFO - App Started
+2025-05-19 14:57:09,274 - INFO - Function 'extract_topics' started.
+2025-05-19 14:57:09,311 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-19 14:57:23,833 - INFO - TIME_PERF: Function 'extract_topics' took 14.5592 seconds to execute
+2025-05-19 14:57:32,090 - INFO - App Started
+2025-05-19 14:57:32,107 - INFO - Function 'extract_topics' started.
+2025-05-19 14:57:32,144 - INFO - TIME_PERF: Function 'extract_topics' took 0.0366 seconds to execute
+2025-05-19 14:57:32,152 - INFO - Function 'reduce_topics' started.
+2025-05-19 14:57:32,158 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-19 14:57:41,851 - INFO - TIME_PERF: Function 'reduce_topics' took 9.6975 seconds to execute
+2025-05-19 14:57:46,963 - INFO - App Started
+2025-05-19 14:57:46,971 - INFO - Function 'extract_features' started.
+2025-05-19 14:57:46,987 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-19 14:58:06,330 - INFO - TIME_PERF: Function 'extract_features' took 19.3594 seconds to execute
+2025-05-19 14:58:06,340 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-19 14:58:09,511 - INFO - App Started
+2025-05-19 14:58:09,522 - INFO - Function 'create_recommendation_table' started.
+2025-05-19 14:58:09,535 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0120 seconds to execute
+2025-05-19 14:58:09,779 - INFO - Function 'create_recommendation_table' started.
+2025-05-19 14:58:09,779 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0000 seconds to execute
+2025-05-19 14:58:10,530 - INFO - Function 'create_conclusion' started.
+2025-05-19 14:58:10,533 - INFO - Function 'fit_transform' started.
+2025-05-19 14:59:11,956 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x00000252B307A510> with create_conclusion, defaulting to cache.
+2025-05-19 14:59:31,682 - INFO - TIME_PERF: Function 'create_conclusion' took 81.1507 seconds to execute
+2025-05-19 14:59:48,712 - INFO - App Started
+2025-05-19 14:59:48,725 - INFO - Function 'extract_features' started.
+2025-05-19 14:59:48,750 - INFO - TIME_PERF: Function 'extract_features' took 0.0230 seconds to execute
+2025-05-19 14:59:48,771 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-19 14:59:49,711 - INFO - App Started
+2025-05-19 14:59:49,725 - INFO - Function 'extract_topics' started.
+2025-05-19 14:59:49,756 - INFO - TIME_PERF: Function 'extract_topics' took 0.0317 seconds to execute
+2025-05-19 14:59:49,756 - INFO - Function 'reduce_topics' started.
+2025-05-19 14:59:49,794 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0373 seconds to execute
+2025-05-19 14:59:50,895 - INFO - App Started
+2025-05-19 14:59:52,343 - INFO - App Started
+2025-05-19 15:09:02,371 - INFO - App Started
+2025-05-19 15:09:02,376 - INFO - Loaded user guide.
+2025-05-19 15:09:15,569 - INFO - App Started
+2025-05-19 15:09:15,573 - INFO - Loaded landing page.
+2025-05-19 15:09:22,111 - INFO - App Started
+2025-05-19 15:09:22,111 - INFO - Loaded user guide.
+2025-05-19 15:09:22,132 - INFO - Loaded landing page.
+2025-05-19 15:40:15,401 - INFO - App Started
+2025-05-19 15:40:15,407 - INFO - Loaded landing page.
+2025-05-19 15:40:17,923 - INFO - App Started
+2025-05-19 15:40:32,828 - INFO - App Started
+2025-05-19 15:40:34,495 - INFO - App Started
+2025-05-19 15:40:35,023 - INFO - App Started
+2025-05-19 16:44:19,218 - INFO - App Started
+2025-05-19 16:44:19,223 - INFO - Loaded landing page.
+2025-05-19 16:44:21,868 - INFO - App Started
+2025-05-19 16:44:31,062 - INFO - App Started
+2025-05-19 16:44:32,799 - INFO - App Started
+2025-05-19 16:44:33,379 - INFO - App Started
+2025-05-19 16:44:36,368 - INFO - App Started
+2025-05-19 16:44:38,456 - INFO - App Started
+2025-05-19 16:44:40,022 - INFO - App Started
+2025-05-19 16:44:40,025 - INFO - Function 'extract_topics' started.
+2025-05-19 16:44:40,057 - INFO - TIME_PERF: Function 'extract_topics' took 0.0322 seconds to execute
+2025-05-19 16:44:42,321 - INFO - App Started
+2025-05-19 16:44:42,329 - INFO - Function 'extract_topics' started.
+2025-05-19 16:44:42,359 - INFO - TIME_PERF: Function 'extract_topics' took 0.0299 seconds to execute
+2025-05-19 16:44:42,362 - INFO - Function 'reduce_topics' started.
+2025-05-19 16:44:42,370 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0071 seconds to execute
+2025-05-19 16:44:45,586 - INFO - App Started
+2025-05-19 16:44:45,594 - INFO - Function 'extract_features' started.
+2025-05-19 16:44:45,625 - INFO - TIME_PERF: Function 'extract_features' took 0.0299 seconds to execute
+2025-05-19 16:44:45,631 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-19 16:44:48,903 - INFO - App Started
+2025-05-19 16:44:48,914 - INFO - Function 'create_recommendation_table' started.
+2025-05-19 16:44:48,919 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0050 seconds to execute
+2025-05-19 16:44:48,937 - INFO - Function 'create_recommendation_table' started.
+2025-05-19 16:44:48,943 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0050 seconds to execute
+2025-05-19 16:44:48,979 - INFO - Function 'create_conclusion' started.
+2025-05-19 16:44:48,980 - INFO - Function 'fit_transform' started.
+2025-05-19 16:44:52,967 - INFO - App Started
+2025-05-19 16:44:54,887 - INFO - App Started
+2025-05-19 16:44:54,887 - INFO - Function 'create_recommendation_table' started.
+2025-05-19 16:44:54,903 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0167 seconds to execute
+2025-05-19 16:44:54,921 - INFO - Function 'create_recommendation_table' started.
+2025-05-19 16:44:54,926 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0040 seconds to execute
+2025-05-19 16:44:54,964 - INFO - Function 'create_conclusion' started.
+2025-05-19 16:44:54,966 - INFO - Function 'fit_transform' started.
+2025-05-19 16:45:52,187 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x00000252B307B070> with create_conclusion, defaulting to cache.
+2025-05-19 16:45:55,781 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x000002527FB63D20> with create_conclusion, defaulting to cache.
+2025-05-19 16:46:15,469 - INFO - TIME_PERF: Function 'create_conclusion' took 80.5034 seconds to execute
+2025-05-19 16:47:35,431 - INFO - App Started
+2025-05-19 16:47:39,838 - INFO - App Started
+2025-05-19 16:47:43,535 - INFO - App Started
+2025-05-19 16:47:44,086 - INFO - App Started
+2025-05-19 16:47:46,800 - INFO - App Started
+2025-05-19 16:47:51,720 - INFO - App Started
+2025-05-19 16:47:51,720 - INFO - Loaded landing page.
+2025-05-19 16:47:54,712 - INFO - App Started
+2025-05-19 16:48:02,833 - INFO - App Started
+2025-05-19 16:48:02,837 - INFO - Loaded landing page.
+2025-05-19 16:49:39,816 - INFO - App Started
+2025-05-19 16:49:46,357 - INFO - App Started
+2025-05-19 16:49:46,372 - INFO - Loaded landing page.
+2025-05-19 16:49:49,898 - INFO - App Started
+2025-05-19 16:49:53,673 - INFO - App Started
+2025-05-19 16:49:55,726 - INFO - App Started
+2025-05-19 16:49:56,284 - INFO - App Started
+2025-05-19 16:49:59,576 - INFO - App Started
+2025-05-19 16:50:02,465 - INFO - App Started
+2025-05-19 16:50:04,142 - INFO - App Started
+2025-05-19 16:50:04,142 - INFO - Function 'extract_topics' started.
+2025-05-19 16:50:04,183 - INFO - TIME_PERF: Function 'extract_topics' took 0.0408 seconds to execute
+2025-05-19 16:50:06,353 - INFO - App Started
+2025-05-19 16:50:06,364 - INFO - Function 'extract_topics' started.
+2025-05-19 16:50:06,390 - INFO - TIME_PERF: Function 'extract_topics' took 0.0249 seconds to execute
+2025-05-19 16:50:06,395 - INFO - Function 'reduce_topics' started.
+2025-05-19 16:50:06,417 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0220 seconds to execute
+2025-05-19 16:50:09,553 - INFO - App Started
+2025-05-19 16:50:09,561 - INFO - Function 'extract_features' started.
+2025-05-19 16:50:09,589 - INFO - TIME_PERF: Function 'extract_features' took 0.0271 seconds to execute
+2025-05-19 16:50:09,593 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-19 16:50:14,640 - INFO - App Started
+2025-05-19 16:50:40,374 - INFO - App Started
+2025-05-19 16:50:40,382 - INFO - Loaded landing page.
+2025-05-19 16:50:42,801 - INFO - App Started
+2025-05-19 16:50:52,952 - INFO - App Started
+2025-05-19 16:50:56,437 - INFO - App Started
+2025-05-19 16:50:57,928 - INFO - App Started
+2025-05-19 16:50:58,465 - INFO - App Started
+2025-05-19 16:51:02,219 - INFO - App Started
+2025-05-19 16:51:04,576 - INFO - App Started
+2025-05-19 16:51:05,887 - INFO - App Started
+2025-05-19 16:51:05,887 - INFO - Function 'extract_topics' started.
+2025-05-19 16:51:05,909 - CRITICAL - Error testing with extract_topics, defaulting to cache.
+2025-05-19 16:51:20,425 - INFO - TIME_PERF: Function 'extract_topics' took 14.5378 seconds to execute
+2025-05-19 16:51:33,473 - INFO - App Started
+2025-05-19 16:51:33,482 - INFO - Function 'extract_topics' started.
+2025-05-19 16:51:33,513 - INFO - TIME_PERF: Function 'extract_topics' took 0.0299 seconds to execute
+2025-05-19 16:51:33,518 - INFO - Function 'reduce_topics' started.
+2025-05-19 16:51:33,523 - CRITICAL - Error testing with reduce_topics, defaulting to cache.
+2025-05-19 16:51:43,304 - INFO - TIME_PERF: Function 'reduce_topics' took 9.7840 seconds to execute
+2025-05-19 16:52:01,237 - INFO - App Started
+2025-05-19 16:52:01,249 - INFO - Function 'extract_topics' started.
+2025-05-19 16:52:01,275 - INFO - TIME_PERF: Function 'extract_topics' took 0.0258 seconds to execute
+2025-05-19 16:52:01,278 - INFO - Function 'reduce_topics' started.
+2025-05-19 16:52:01,301 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0220 seconds to execute
+2025-05-19 16:52:03,137 - INFO - App Started
+2025-05-19 16:53:40,109 - INFO - App Started
+2025-05-19 16:53:40,113 - INFO - Loaded landing page.
+2025-05-19 16:53:42,547 - INFO - App Started
+2025-05-19 16:53:45,995 - INFO - App Started
+2025-05-19 16:53:47,374 - INFO - App Started
+2025-05-19 16:53:47,908 - INFO - App Started
+2025-05-19 16:53:53,553 - INFO - App Started
+2025-05-19 16:53:54,480 - INFO - App Started
+2025-05-19 16:53:55,373 - INFO - App Started
+2025-05-19 16:53:55,373 - INFO - Function 'extract_topics' started.
+2025-05-19 16:53:55,414 - INFO - TIME_PERF: Function 'extract_topics' took 0.0413 seconds to execute
+2025-05-19 16:53:57,841 - INFO - App Started
+2025-05-19 16:53:57,849 - INFO - Function 'extract_topics' started.
+2025-05-19 16:53:57,879 - INFO - TIME_PERF: Function 'extract_topics' took 0.0286 seconds to execute
+2025-05-19 16:53:57,883 - INFO - Function 'reduce_topics' started.
+2025-05-19 16:53:57,892 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0081 seconds to execute
+2025-05-19 16:54:00,295 - INFO - App Started
+2025-05-19 16:54:00,295 - INFO - Function 'extract_features' started.
+2025-05-19 16:54:00,317 - CRITICAL - Error testing with extract_features, defaulting to cache.
+2025-05-19 16:54:19,652 - INFO - TIME_PERF: Function 'extract_features' took 19.3574 seconds to execute
+2025-05-19 16:54:19,658 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-19 16:54:39,903 - INFO - App Started
+2025-05-19 16:54:39,903 - INFO - Function 'create_recommendation_table' started.
+2025-05-19 16:54:39,920 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0173 seconds to execute
+2025-05-19 16:54:39,937 - INFO - Function 'create_recommendation_table' started.
+2025-05-19 16:54:39,942 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0030 seconds to execute
+2025-05-19 16:54:39,981 - INFO - Function 'create_conclusion' started.
+2025-05-19 16:54:39,983 - INFO - Function 'fit_transform' started.
+2025-05-19 16:54:54,698 - INFO - App Started
+2025-05-19 16:55:41,027 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x00000252B3079D30> with create_conclusion, defaulting to cache.
+2025-05-19 16:56:04,760 - INFO - App Started
+2025-05-19 16:56:07,183 - INFO - App Started
+2025-05-19 16:56:07,187 - INFO - Loaded landing page.
+2025-05-19 16:56:08,975 - INFO - App Started
+2025-05-19 16:57:20,748 - INFO - App Started
+2025-05-19 16:57:20,752 - INFO - Loaded landing page.
+2025-05-19 16:57:23,957 - INFO - App Started
+2025-05-19 16:57:28,791 - INFO - App Started
+2025-05-19 16:57:30,191 - INFO - App Started
+2025-05-19 16:57:30,745 - INFO - App Started
+2025-05-19 16:57:34,360 - INFO - App Started
+2025-05-19 16:57:35,227 - INFO - App Started
+2025-05-19 16:57:35,993 - INFO - App Started
+2025-05-19 16:57:35,993 - INFO - Function 'extract_topics' started.
+2025-05-19 16:57:36,033 - INFO - TIME_PERF: Function 'extract_topics' took 0.0401 seconds to execute
+2025-05-19 16:57:38,257 - INFO - App Started
+2025-05-19 16:57:38,265 - INFO - Function 'extract_topics' started.
+2025-05-19 16:57:38,296 - INFO - TIME_PERF: Function 'extract_topics' took 0.0300 seconds to execute
+2025-05-19 16:57:38,300 - INFO - Function 'reduce_topics' started.
+2025-05-19 16:57:38,320 - INFO - TIME_PERF: Function 'reduce_topics' took 0.0189 seconds to execute
+2025-05-19 16:57:40,071 - INFO - App Started
+2025-05-19 16:57:40,083 - INFO - Function 'extract_features' started.
+2025-05-19 16:57:40,110 - INFO - TIME_PERF: Function 'extract_features' took 0.0268 seconds to execute
+2025-05-19 16:57:40,116 - INFO - Associations with NEUTRAL sentiment: 37
+2025-05-19 16:57:44,494 - INFO - App Started
+2025-05-19 16:57:44,507 - INFO - Function 'create_recommendation_table' started.
+2025-05-19 16:57:44,513 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0050 seconds to execute
+2025-05-19 16:57:44,529 - INFO - Function 'create_recommendation_table' started.
+2025-05-19 16:57:44,534 - INFO - TIME_PERF: Function 'create_recommendation_table' took 0.0040 seconds to execute
+2025-05-19 16:57:44,572 - INFO - Function 'create_conclusion' started.
+2025-05-19 16:57:44,574 - INFO - Function 'fit_transform' started.
+2025-05-19 16:57:48,507 - INFO - App Started
+2025-05-19 16:58:45,440 - CRITICAL - Error <built-in method with_traceback of APITimeoutError object at 0x00000252B358B9A0> with create_conclusion, defaulting to cache.
+2025-05-19 16:59:16,392 - INFO - App Started
+2025-05-19 16:59:16,392 - INFO - Loaded landing page.
+2025-05-19 16:59:22,160 - INFO - App Started
+2025-05-19 16:59:22,163 - INFO - Loaded landing page.
