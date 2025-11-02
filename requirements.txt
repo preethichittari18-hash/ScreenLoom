@@ -1,0 +1,14 @@
+streamlit
+pandas
+matplotlib
+plotly
+wordcloud
+python-dotenv
+torch
+transformers
+scikit-learn
+openpyxl
+sqlalchemy
+pymysql
+psycopg2-binary
+pyodbc
