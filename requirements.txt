@@ -1,18 +1,33 @@
+# Core
 streamlit
 pandas
 matplotlib
 plotly
 wordcloud
 python-dotenv
+
+# ML / NLP
 torch
 transformers
 scikit-learn
-openpyxl
+
+# Database connectors
 sqlalchemy
 pymysql
 psycopg2-binary
 pyodbc
-pydantic
+openpyxl
+
+# LangChain ecosystem
 langchain
 langchain-core
 langchain-community
+langchain-groq
+
+# Data models, utilities
+pydantic
+tqdm
+requests
+
+# Optional but recommended for stability
+numpy
