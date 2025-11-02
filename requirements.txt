@@ -13,3 +13,6 @@ pymysql
 psycopg2-binary
 pyodbc
 pydantic
+langchain
+langchain-core
+langchain-community
